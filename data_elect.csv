@@ -1,0 +1,1681 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2024-04,US,U.S. Total,ALL,all sectors,12.71,cents per kilowatthour
+2024-04,US,U.S. Total,TRA,transportation,12.64,cents per kilowatthour
+2024-04,US,U.S. Total,RES,residential,16.88,cents per kilowatthour
+2024-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2024-04,US,U.S. Total,IND,industrial,7.82,cents per kilowatthour
+2024-04,US,U.S. Total,COM,commercial,12.66,cents per kilowatthour
+2024-03,US,U.S. Total,ALL,all sectors,12.73,cents per kilowatthour
+2024-03,US,U.S. Total,TRA,transportation,11.91,cents per kilowatthour
+2024-03,US,U.S. Total,RES,residential,16.68,cents per kilowatthour
+2024-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2024-03,US,U.S. Total,IND,industrial,7.73,cents per kilowatthour
+2024-03,US,U.S. Total,COM,commercial,12.76,cents per kilowatthour
+2024-02,US,U.S. Total,ALL,all sectors,12.8,cents per kilowatthour
+2024-02,US,U.S. Total,TRA,transportation,13.2,cents per kilowatthour
+2024-02,US,U.S. Total,RES,residential,16.1,cents per kilowatthour
+2024-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2024-02,US,U.S. Total,IND,industrial,7.81,cents per kilowatthour
+2024-02,US,U.S. Total,COM,commercial,12.81,cents per kilowatthour
+2024-01,US,U.S. Total,ALL,all sectors,12.73,cents per kilowatthour
+2024-01,US,U.S. Total,TRA,transportation,12.68,cents per kilowatthour
+2024-01,US,U.S. Total,RES,residential,15.45,cents per kilowatthour
+2024-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2024-01,US,U.S. Total,IND,industrial,8.1,cents per kilowatthour
+2024-01,US,U.S. Total,COM,commercial,12.68,cents per kilowatthour
+2023-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-12,US,U.S. Total,IND,industrial,7.66,cents per kilowatthour
+2023-12,US,U.S. Total,COM,commercial,12.39,cents per kilowatthour
+2023-12,US,U.S. Total,ALL,all sectors,12.41,cents per kilowatthour
+2023-12,US,U.S. Total,TRA,transportation,12.33,cents per kilowatthour
+2023-12,US,U.S. Total,RES,residential,15.73,cents per kilowatthour
+2023-11,US,U.S. Total,COM,commercial,12.62,cents per kilowatthour
+2023-11,US,U.S. Total,ALL,all sectors,12.5,cents per kilowatthour
+2023-11,US,U.S. Total,TRA,transportation,12.56,cents per kilowatthour
+2023-11,US,U.S. Total,RES,residential,16.19,cents per kilowatthour
+2023-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-11,US,U.S. Total,IND,industrial,7.81,cents per kilowatthour
+2023-10,US,U.S. Total,ALL,all sectors,12.59,cents per kilowatthour
+2023-10,US,U.S. Total,TRA,transportation,12.77,cents per kilowatthour
+2023-10,US,U.S. Total,RES,residential,16.2,cents per kilowatthour
+2023-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-10,US,U.S. Total,IND,industrial,8.01,cents per kilowatthour
+2023-10,US,U.S. Total,COM,commercial,12.86,cents per kilowatthour
+2023-09,US,U.S. Total,ALL,all sectors,13.19,cents per kilowatthour
+2023-09,US,U.S. Total,TRA,transportation,14.27,cents per kilowatthour
+2023-09,US,U.S. Total,RES,residential,16.29,cents per kilowatthour
+2023-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-09,US,U.S. Total,IND,industrial,8.44,cents per kilowatthour
+2023-09,US,U.S. Total,COM,commercial,13.23,cents per kilowatthour
+2023-08,US,U.S. Total,ALL,all sectors,13.3,cents per kilowatthour
+2023-08,US,U.S. Total,TRA,transportation,13.18,cents per kilowatthour
+2023-08,US,U.S. Total,RES,residential,15.93,cents per kilowatthour
+2023-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-08,US,U.S. Total,IND,industrial,8.87,cents per kilowatthour
+2023-08,US,U.S. Total,COM,commercial,13.24,cents per kilowatthour
+2023-07,US,U.S. Total,ALL,all sectors,13.1,cents per kilowatthour
+2023-07,US,U.S. Total,TRA,transportation,12.69,cents per kilowatthour
+2023-07,US,U.S. Total,RES,residential,15.89,cents per kilowatthour
+2023-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-07,US,U.S. Total,IND,industrial,8.32,cents per kilowatthour
+2023-07,US,U.S. Total,COM,commercial,13.07,cents per kilowatthour
+2023-06,US,U.S. Total,ALL,all sectors,12.75,cents per kilowatthour
+2023-06,US,U.S. Total,TRA,transportation,12.36,cents per kilowatthour
+2023-06,US,U.S. Total,RES,residential,16.11,cents per kilowatthour
+2023-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-06,US,U.S. Total,IND,industrial,8.08,cents per kilowatthour
+2023-06,US,U.S. Total,COM,commercial,12.77,cents per kilowatthour
+2023-05,US,U.S. Total,ALL,all sectors,12.25,cents per kilowatthour
+2023-05,US,U.S. Total,TRA,transportation,12.36,cents per kilowatthour
+2023-05,US,U.S. Total,RES,residential,16.15,cents per kilowatthour
+2023-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-05,US,U.S. Total,IND,industrial,7.62,cents per kilowatthour
+2023-05,US,U.S. Total,COM,commercial,12.32,cents per kilowatthour
+2023-04,US,U.S. Total,ALL,all sectors,12.18,cents per kilowatthour
+2023-04,US,U.S. Total,TRA,transportation,11.96,cents per kilowatthour
+2023-04,US,U.S. Total,RES,residential,16.1,cents per kilowatthour
+2023-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-04,US,U.S. Total,IND,industrial,7.5,cents per kilowatthour
+2023-04,US,U.S. Total,COM,commercial,12.21,cents per kilowatthour
+2023-03,US,U.S. Total,ALL,all sectors,12.43,cents per kilowatthour
+2023-03,US,U.S. Total,TRA,transportation,12.18,cents per kilowatthour
+2023-03,US,U.S. Total,RES,residential,15.91,cents per kilowatthour
+2023-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-03,US,U.S. Total,IND,industrial,7.79,cents per kilowatthour
+2023-03,US,U.S. Total,COM,commercial,12.48,cents per kilowatthour
+2023-02,US,U.S. Total,ALL,all sectors,12.76,cents per kilowatthour
+2023-02,US,U.S. Total,TRA,transportation,12.99,cents per kilowatthour
+2023-02,US,U.S. Total,RES,residential,15.98,cents per kilowatthour
+2023-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-02,US,U.S. Total,IND,industrial,8.1,cents per kilowatthour
+2023-02,US,U.S. Total,COM,commercial,12.7,cents per kilowatthour
+2023-01,US,U.S. Total,ALL,all sectors,12.78,cents per kilowatthour
+2023-01,US,U.S. Total,TRA,transportation,12.36,cents per kilowatthour
+2023-01,US,U.S. Total,RES,residential,15.47,cents per kilowatthour
+2023-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2023-01,US,U.S. Total,IND,industrial,8.32,cents per kilowatthour
+2023-01,US,U.S. Total,COM,commercial,12.75,cents per kilowatthour
+2022-12,US,U.S. Total,ALL,all sectors,12.4,cents per kilowatthour
+2022-12,US,U.S. Total,TRA,transportation,11.48,cents per kilowatthour
+2022-12,US,U.S. Total,RES,residential,14.94,cents per kilowatthour
+2022-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-12,US,U.S. Total,IND,industrial,8.5,cents per kilowatthour
+2022-12,US,U.S. Total,COM,commercial,12.28,cents per kilowatthour
+2022-11,US,U.S. Total,ALL,all sectors,12.3,cents per kilowatthour
+2022-11,US,U.S. Total,TRA,transportation,11.56,cents per kilowatthour
+2022-11,US,U.S. Total,RES,residential,15.55,cents per kilowatthour
+2022-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-11,US,U.S. Total,IND,industrial,8.14,cents per kilowatthour
+2022-11,US,U.S. Total,COM,commercial,12.33,cents per kilowatthour
+2022-10,US,U.S. Total,ALL,all sectors,12.66,cents per kilowatthour
+2022-10,US,U.S. Total,TRA,transportation,11.81,cents per kilowatthour
+2022-10,US,U.S. Total,RES,residential,15.99,cents per kilowatthour
+2022-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-10,US,U.S. Total,IND,industrial,8.45,cents per kilowatthour
+2022-10,US,U.S. Total,COM,commercial,12.89,cents per kilowatthour
+2022-09,US,U.S. Total,ALL,all sectors,13.31,cents per kilowatthour
+2022-09,US,U.S. Total,TRA,transportation,12.57,cents per kilowatthour
+2022-09,US,U.S. Total,RES,residential,16.19,cents per kilowatthour
+2022-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-09,US,U.S. Total,IND,industrial,9.06,cents per kilowatthour
+2022-09,US,U.S. Total,COM,commercial,13.28,cents per kilowatthour
+2022-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-08,US,U.S. Total,RES,residential,15.82,cents per kilowatthour
+2022-08,US,U.S. Total,TRA,transportation,12.9,cents per kilowatthour
+2022-08,US,U.S. Total,ALL,all sectors,13.44,cents per kilowatthour
+2022-08,US,U.S. Total,COM,commercial,13.41,cents per kilowatthour
+2022-08,US,U.S. Total,IND,industrial,9.38,cents per kilowatthour
+2022-07,US,U.S. Total,ALL,all sectors,13.12,cents per kilowatthour
+2022-07,US,U.S. Total,TRA,transportation,12.39,cents per kilowatthour
+2022-07,US,U.S. Total,RES,residential,15.31,cents per kilowatthour
+2022-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-07,US,U.S. Total,IND,industrial,9.31,cents per kilowatthour
+2022-07,US,U.S. Total,COM,commercial,13.02,cents per kilowatthour
+2022-06,US,U.S. Total,ALL,all sectors,12.75,cents per kilowatthour
+2022-06,US,U.S. Total,TRA,transportation,12.1,cents per kilowatthour
+2022-06,US,U.S. Total,RES,residential,15.3,cents per kilowatthour
+2022-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-06,US,U.S. Total,IND,industrial,8.85,cents per kilowatthour
+2022-06,US,U.S. Total,COM,commercial,12.75,cents per kilowatthour
+2022-05,US,U.S. Total,ALL,all sectors,11.98,cents per kilowatthour
+2022-05,US,U.S. Total,TRA,transportation,10.79,cents per kilowatthour
+2022-05,US,U.S. Total,RES,residential,14.89,cents per kilowatthour
+2022-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-05,US,U.S. Total,IND,industrial,8.25,cents per kilowatthour
+2022-05,US,U.S. Total,COM,commercial,12,cents per kilowatthour
+2022-04,US,U.S. Total,RES,residential,14.57,cents per kilowatthour
+2022-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-04,US,U.S. Total,IND,industrial,7.7,cents per kilowatthour
+2022-04,US,U.S. Total,COM,commercial,11.82,cents per kilowatthour
+2022-04,US,U.S. Total,ALL,all sectors,11.56,cents per kilowatthour
+2022-04,US,U.S. Total,TRA,transportation,11.26,cents per kilowatthour
+2022-03,US,U.S. Total,ALL,all sectors,11.48,cents per kilowatthour
+2022-03,US,U.S. Total,TRA,transportation,10.87,cents per kilowatthour
+2022-03,US,U.S. Total,RES,residential,14.41,cents per kilowatthour
+2022-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-03,US,U.S. Total,IND,industrial,7.37,cents per kilowatthour
+2022-03,US,U.S. Total,COM,commercial,11.65,cents per kilowatthour
+2022-02,US,U.S. Total,ALL,all sectors,11.42,cents per kilowatthour
+2022-02,US,U.S. Total,TRA,transportation,10.95,cents per kilowatthour
+2022-02,US,U.S. Total,RES,residential,13.76,cents per kilowatthour
+2022-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-02,US,U.S. Total,IND,industrial,7.28,cents per kilowatthour
+2022-02,US,U.S. Total,COM,commercial,11.66,cents per kilowatthour
+2022-01,US,U.S. Total,ALL,all sectors,11.24,cents per kilowatthour
+2022-01,US,U.S. Total,TRA,transportation,10.54,cents per kilowatthour
+2022-01,US,U.S. Total,RES,residential,13.64,cents per kilowatthour
+2022-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2022-01,US,U.S. Total,IND,industrial,7.19,cents per kilowatthour
+2022-01,US,U.S. Total,COM,commercial,11.26,cents per kilowatthour
+2021-12,US,U.S. Total,ALL,all sectors,11.03,cents per kilowatthour
+2021-12,US,U.S. Total,TRA,transportation,10.49,cents per kilowatthour
+2021-12,US,U.S. Total,RES,residential,13.72,cents per kilowatthour
+2021-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-12,US,U.S. Total,IND,industrial,7.06,cents per kilowatthour
+2021-12,US,U.S. Total,COM,commercial,11.15,cents per kilowatthour
+2021-11,US,U.S. Total,ALL,all sectors,11.14,cents per kilowatthour
+2021-11,US,U.S. Total,TRA,transportation,10.47,cents per kilowatthour
+2021-11,US,U.S. Total,RES,residential,14.07,cents per kilowatthour
+2021-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-11,US,U.S. Total,IND,industrial,7.37,cents per kilowatthour
+2021-11,US,U.S. Total,COM,commercial,11.29,cents per kilowatthour
+2021-10,US,U.S. Total,ALL,all sectors,11.24,cents per kilowatthour
+2021-10,US,U.S. Total,TRA,transportation,10.25,cents per kilowatthour
+2021-10,US,U.S. Total,RES,residential,14.06,cents per kilowatthour
+2021-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-10,US,U.S. Total,IND,industrial,7.44,cents per kilowatthour
+2021-10,US,U.S. Total,COM,commercial,11.52,cents per kilowatthour
+2021-09,US,U.S. Total,ALL,all sectors,11.59,cents per kilowatthour
+2021-09,US,U.S. Total,TRA,transportation,11.15,cents per kilowatthour
+2021-09,US,U.S. Total,RES,residential,14.14,cents per kilowatthour
+2021-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-09,US,U.S. Total,IND,industrial,7.61,cents per kilowatthour
+2021-09,US,U.S. Total,COM,commercial,11.65,cents per kilowatthour
+2021-08,US,U.S. Total,ALL,all sectors,11.55,cents per kilowatthour
+2021-08,US,U.S. Total,TRA,transportation,10.27,cents per kilowatthour
+2021-08,US,U.S. Total,RES,residential,13.92,cents per kilowatthour
+2021-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-08,US,U.S. Total,IND,industrial,7.54,cents per kilowatthour
+2021-08,US,U.S. Total,COM,commercial,11.52,cents per kilowatthour
+2021-07,US,U.S. Total,ALL,all sectors,11.45,cents per kilowatthour
+2021-07,US,U.S. Total,TRA,transportation,10.29,cents per kilowatthour
+2021-07,US,U.S. Total,RES,residential,13.83,cents per kilowatthour
+2021-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-07,US,U.S. Total,IND,industrial,7.42,cents per kilowatthour
+2021-07,US,U.S. Total,COM,commercial,11.46,cents per kilowatthour
+2021-06,US,U.S. Total,ALL,all sectors,11.25,cents per kilowatthour
+2021-06,US,U.S. Total,TRA,transportation,10.42,cents per kilowatthour
+2021-06,US,U.S. Total,RES,residential,13.83,cents per kilowatthour
+2021-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-06,US,U.S. Total,IND,industrial,7.22,cents per kilowatthour
+2021-06,US,U.S. Total,COM,commercial,11.33,cents per kilowatthour
+2021-05,US,U.S. Total,ALL,all sectors,10.69,cents per kilowatthour
+2021-05,US,U.S. Total,TRA,transportation,10.03,cents per kilowatthour
+2021-05,US,U.S. Total,RES,residential,13.86,cents per kilowatthour
+2021-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-05,US,U.S. Total,IND,industrial,6.65,cents per kilowatthour
+2021-05,US,U.S. Total,COM,commercial,10.86,cents per kilowatthour
+2021-04,US,U.S. Total,ALL,all sectors,10.63,cents per kilowatthour
+2021-04,US,U.S. Total,TRA,transportation,10.03,cents per kilowatthour
+2021-04,US,U.S. Total,RES,residential,13.73,cents per kilowatthour
+2021-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-04,US,U.S. Total,IND,industrial,6.7,cents per kilowatthour
+2021-04,US,U.S. Total,COM,commercial,10.87,cents per kilowatthour
+2021-03,US,U.S. Total,ALL,all sectors,10.84,cents per kilowatthour
+2021-03,US,U.S. Total,TRA,transportation,9.7,cents per kilowatthour
+2021-03,US,U.S. Total,RES,residential,13.24,cents per kilowatthour
+2021-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-03,US,U.S. Total,IND,industrial,6.98,cents per kilowatthour
+2021-03,US,U.S. Total,COM,commercial,11.08,cents per kilowatthour
+2021-02,US,U.S. Total,ALL,all sectors,11.16,cents per kilowatthour
+2021-02,US,U.S. Total,TRA,transportation,9.92,cents per kilowatthour
+2021-02,US,U.S. Total,RES,residential,13.01,cents per kilowatthour
+2021-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-02,US,U.S. Total,IND,industrial,7.75,cents per kilowatthour
+2021-02,US,U.S. Total,COM,commercial,11.36,cents per kilowatthour
+2021-01,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatthour
+2021-01,US,U.S. Total,TRA,transportation,9.48,cents per kilowatthour
+2021-01,US,U.S. Total,RES,residential,12.62,cents per kilowatthour
+2021-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2021-01,US,U.S. Total,IND,industrial,6.32,cents per kilowatthour
+2021-01,US,U.S. Total,COM,commercial,10.27,cents per kilowatthour
+2020-12,US,U.S. Total,ALL,all sectors,10.37,cents per kilowatthour
+2020-12,US,U.S. Total,TRA,transportation,9.86,cents per kilowatthour
+2020-12,US,U.S. Total,RES,residential,12.78,cents per kilowatthour
+2020-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-12,US,U.S. Total,IND,industrial,6.41,cents per kilowatthour
+2020-12,US,U.S. Total,COM,commercial,10.41,cents per kilowatthour
+2020-11,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatthour
+2020-11,US,U.S. Total,TRA,transportation,9.95,cents per kilowatthour
+2020-11,US,U.S. Total,RES,residential,13.31,cents per kilowatthour
+2020-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-11,US,U.S. Total,IND,industrial,6.49,cents per kilowatthour
+2020-11,US,U.S. Total,COM,commercial,10.53,cents per kilowatthour
+2020-10,US,U.S. Total,ALL,all sectors,10.65,cents per kilowatthour
+2020-10,US,U.S. Total,TRA,transportation,9.87,cents per kilowatthour
+2020-10,US,U.S. Total,RES,residential,13.66,cents per kilowatthour
+2020-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-10,US,U.S. Total,IND,industrial,6.72,cents per kilowatthour
+2020-10,US,U.S. Total,COM,commercial,10.72,cents per kilowatthour
+2020-09,US,U.S. Total,ALL,all sectors,10.99,cents per kilowatthour
+2020-09,US,U.S. Total,TRA,transportation,10.37,cents per kilowatthour
+2020-09,US,U.S. Total,RES,residential,13.49,cents per kilowatthour
+2020-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-09,US,U.S. Total,IND,industrial,7,cents per kilowatthour
+2020-09,US,U.S. Total,COM,commercial,11.02,cents per kilowatthour
+2020-08,US,U.S. Total,ALL,all sectors,11.02,cents per kilowatthour
+2020-08,US,U.S. Total,TRA,transportation,10.29,cents per kilowatthour
+2020-08,US,U.S. Total,RES,residential,13.26,cents per kilowatthour
+2020-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-08,US,U.S. Total,IND,industrial,7.07,cents per kilowatthour
+2020-08,US,U.S. Total,COM,commercial,10.9,cents per kilowatthour
+2020-07,US,U.S. Total,ALL,all sectors,11.06,cents per kilowatthour
+2020-07,US,U.S. Total,TRA,transportation,10.27,cents per kilowatthour
+2020-07,US,U.S. Total,RES,residential,13.21,cents per kilowatthour
+2020-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-07,US,U.S. Total,IND,industrial,7.16,cents per kilowatthour
+2020-07,US,U.S. Total,COM,commercial,10.84,cents per kilowatthour
+2020-06,US,U.S. Total,ALL,all sectors,10.88,cents per kilowatthour
+2020-06,US,U.S. Total,TRA,transportation,10.55,cents per kilowatthour
+2020-06,US,U.S. Total,RES,residential,13.22,cents per kilowatthour
+2020-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-06,US,U.S. Total,IND,industrial,6.94,cents per kilowatthour
+2020-06,US,U.S. Total,COM,commercial,10.89,cents per kilowatthour
+2020-05,US,U.S. Total,ALL,all sectors,10.39,cents per kilowatthour
+2020-05,US,U.S. Total,TRA,transportation,9.3,cents per kilowatthour
+2020-05,US,U.S. Total,RES,residential,13.1,cents per kilowatthour
+2020-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-05,US,U.S. Total,IND,industrial,6.54,cents per kilowatthour
+2020-05,US,U.S. Total,COM,commercial,10.4,cents per kilowatthour
+2020-04,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatthour
+2020-04,US,U.S. Total,TRA,transportation,9.72,cents per kilowatthour
+2020-04,US,U.S. Total,RES,residential,13.24,cents per kilowatthour
+2020-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-04,US,U.S. Total,IND,industrial,6.39,cents per kilowatthour
+2020-04,US,U.S. Total,COM,commercial,10.37,cents per kilowatthour
+2020-03,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatthour
+2020-03,US,U.S. Total,TRA,transportation,9.67,cents per kilowatthour
+2020-03,US,U.S. Total,RES,residential,13.04,cents per kilowatthour
+2020-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-03,US,U.S. Total,IND,industrial,6.39,cents per kilowatthour
+2020-03,US,U.S. Total,COM,commercial,10.34,cents per kilowatthour
+2020-02,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatthour
+2020-02,US,U.S. Total,TRA,transportation,9.45,cents per kilowatthour
+2020-02,US,U.S. Total,RES,residential,12.82,cents per kilowatthour
+2020-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-02,US,U.S. Total,IND,industrial,6.44,cents per kilowatthour
+2020-02,US,U.S. Total,COM,commercial,10.3,cents per kilowatthour
+2020-01,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatthour
+2020-01,US,U.S. Total,TRA,transportation,9.64,cents per kilowatthour
+2020-01,US,U.S. Total,RES,residential,12.76,cents per kilowatthour
+2020-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2020-01,US,U.S. Total,IND,industrial,6.37,cents per kilowatthour
+2020-01,US,U.S. Total,COM,commercial,10.18,cents per kilowatthour
+2019-12,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatthour
+2019-12,US,U.S. Total,TRA,transportation,9.46,cents per kilowatthour
+2019-12,US,U.S. Total,RES,residential,12.68,cents per kilowatthour
+2019-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-12,US,U.S. Total,IND,industrial,6.38,cents per kilowatthour
+2019-12,US,U.S. Total,COM,commercial,10.32,cents per kilowatthour
+2019-11,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatthour
+2019-11,US,U.S. Total,TRA,transportation,9.52,cents per kilowatthour
+2019-11,US,U.S. Total,RES,residential,13.03,cents per kilowatthour
+2019-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-11,US,U.S. Total,IND,industrial,6.72,cents per kilowatthour
+2019-11,US,U.S. Total,COM,commercial,10.57,cents per kilowatthour
+2019-10,US,U.S. Total,ALL,all sectors,10.39,cents per kilowatthour
+2019-10,US,U.S. Total,TRA,transportation,9.72,cents per kilowatthour
+2019-10,US,U.S. Total,RES,residential,12.81,cents per kilowatthour
+2019-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-10,US,U.S. Total,IND,industrial,6.84,cents per kilowatthour
+2019-10,US,U.S. Total,COM,commercial,10.74,cents per kilowatthour
+2019-09,US,U.S. Total,ALL,all sectors,10.82,cents per kilowatthour
+2019-09,US,U.S. Total,TRA,transportation,9.78,cents per kilowatthour
+2019-09,US,U.S. Total,RES,residential,13.16,cents per kilowatthour
+2019-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-09,US,U.S. Total,IND,industrial,7.06,cents per kilowatthour
+2019-09,US,U.S. Total,COM,commercial,10.96,cents per kilowatthour
+2019-08,US,U.S. Total,ALL,all sectors,11.05,cents per kilowatthour
+2019-08,US,U.S. Total,TRA,transportation,9.65,cents per kilowatthour
+2019-08,US,U.S. Total,RES,residential,13.3,cents per kilowatthour
+2019-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-08,US,U.S. Total,IND,industrial,7.4,cents per kilowatthour
+2019-08,US,U.S. Total,COM,commercial,11.02,cents per kilowatthour
+2019-07,US,U.S. Total,ALL,all sectors,11,cents per kilowatthour
+2019-07,US,U.S. Total,TRA,transportation,9.82,cents per kilowatthour
+2019-07,US,U.S. Total,RES,residential,13.26,cents per kilowatthour
+2019-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-07,US,U.S. Total,IND,industrial,7.14,cents per kilowatthour
+2019-07,US,U.S. Total,COM,commercial,11.02,cents per kilowatthour
+2019-06,US,U.S. Total,COM,commercial,10.9,cents per kilowatthour
+2019-06,US,U.S. Total,ALL,all sectors,10.74,cents per kilowatthour
+2019-06,US,U.S. Total,TRA,transportation,10.01,cents per kilowatthour
+2019-06,US,U.S. Total,RES,residential,13.32,cents per kilowatthour
+2019-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-06,US,U.S. Total,IND,industrial,6.87,cents per kilowatthour
+2019-05,US,U.S. Total,IND,industrial,6.69,cents per kilowatthour
+2019-05,US,U.S. Total,COM,commercial,10.54,cents per kilowatthour
+2019-05,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatthour
+2019-05,US,U.S. Total,TRA,transportation,9.46,cents per kilowatthour
+2019-05,US,U.S. Total,RES,residential,13.31,cents per kilowatthour
+2019-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-04,US,U.S. Total,RES,residential,13.25,cents per kilowatthour
+2019-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-04,US,U.S. Total,IND,industrial,6.51,cents per kilowatthour
+2019-04,US,U.S. Total,COM,commercial,10.52,cents per kilowatthour
+2019-04,US,U.S. Total,ALL,all sectors,10.24,cents per kilowatthour
+2019-04,US,U.S. Total,TRA,transportation,9.45,cents per kilowatthour
+2019-03,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatthour
+2019-03,US,U.S. Total,TRA,transportation,9.25,cents per kilowatthour
+2019-03,US,U.S. Total,RES,residential,12.84,cents per kilowatthour
+2019-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-03,US,U.S. Total,IND,industrial,6.73,cents per kilowatthour
+2019-03,US,U.S. Total,COM,commercial,10.46,cents per kilowatthour
+2019-02,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatthour
+2019-02,US,U.S. Total,TRA,transportation,10.02,cents per kilowatthour
+2019-02,US,U.S. Total,RES,residential,12.72,cents per kilowatthour
+2019-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-02,US,U.S. Total,IND,industrial,6.69,cents per kilowatthour
+2019-02,US,U.S. Total,COM,commercial,10.54,cents per kilowatthour
+2019-01,US,U.S. Total,ALL,all sectors,10.24,cents per kilowatthour
+2019-01,US,U.S. Total,TRA,transportation,9.83,cents per kilowatthour
+2019-01,US,U.S. Total,RES,residential,12.47,cents per kilowatthour
+2019-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2019-01,US,U.S. Total,IND,industrial,6.58,cents per kilowatthour
+2019-01,US,U.S. Total,COM,commercial,10.3,cents per kilowatthour
+2018-12,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatthour
+2018-12,US,U.S. Total,TRA,transportation,9.71,cents per kilowatthour
+2018-12,US,U.S. Total,RES,residential,12.43,cents per kilowatthour
+2018-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-12,US,U.S. Total,IND,industrial,6.67,cents per kilowatthour
+2018-12,US,U.S. Total,COM,commercial,10.33,cents per kilowatthour
+2018-11,US,U.S. Total,ALL,all sectors,10.35,cents per kilowatthour
+2018-11,US,U.S. Total,TRA,transportation,9.7,cents per kilowatthour
+2018-11,US,U.S. Total,RES,residential,12.9,cents per kilowatthour
+2018-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-11,US,U.S. Total,IND,industrial,6.85,cents per kilowatthour
+2018-11,US,U.S. Total,COM,commercial,10.54,cents per kilowatthour
+2018-10,US,U.S. Total,ALL,all sectors,10.41,cents per kilowatthour
+2018-10,US,U.S. Total,TRA,transportation,9.79,cents per kilowatthour
+2018-10,US,U.S. Total,RES,residential,12.85,cents per kilowatthour
+2018-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-10,US,U.S. Total,IND,industrial,6.87,cents per kilowatthour
+2018-10,US,U.S. Total,COM,commercial,10.77,cents per kilowatthour
+2018-09,US,U.S. Total,ALL,all sectors,10.66,cents per kilowatthour
+2018-09,US,U.S. Total,TRA,transportation,10.05,cents per kilowatthour
+2018-09,US,U.S. Total,RES,residential,13.01,cents per kilowatthour
+2018-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-09,US,U.S. Total,IND,industrial,7.05,cents per kilowatthour
+2018-09,US,U.S. Total,COM,commercial,10.72,cents per kilowatthour
+2018-08,US,U.S. Total,ALL,all sectors,11.01,cents per kilowatthour
+2018-08,US,U.S. Total,TRA,transportation,9.5,cents per kilowatthour
+2018-08,US,U.S. Total,RES,residential,13.26,cents per kilowatthour
+2018-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-08,US,U.S. Total,IND,industrial,7.25,cents per kilowatthour
+2018-08,US,U.S. Total,COM,commercial,11.03,cents per kilowatthour
+2018-07,US,U.S. Total,ALL,all sectors,10.99,cents per kilowatthour
+2018-07,US,U.S. Total,TRA,transportation,10.05,cents per kilowatthour
+2018-07,US,U.S. Total,RES,residential,13.13,cents per kilowatthour
+2018-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-07,US,U.S. Total,IND,industrial,7.32,cents per kilowatthour
+2018-07,US,U.S. Total,COM,commercial,11,cents per kilowatthour
+2018-06,US,U.S. Total,ALL,all sectors,10.75,cents per kilowatthour
+2018-06,US,U.S. Total,TRA,transportation,10.23,cents per kilowatthour
+2018-06,US,U.S. Total,RES,residential,13.03,cents per kilowatthour
+2018-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-06,US,U.S. Total,IND,industrial,7.17,cents per kilowatthour
+2018-06,US,U.S. Total,COM,commercial,10.84,cents per kilowatthour
+2018-05,US,U.S. Total,ALL,all sectors,10.35,cents per kilowatthour
+2018-05,US,U.S. Total,TRA,transportation,9.39,cents per kilowatthour
+2018-05,US,U.S. Total,RES,residential,13.12,cents per kilowatthour
+2018-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-05,US,U.S. Total,IND,industrial,6.79,cents per kilowatthour
+2018-05,US,U.S. Total,COM,commercial,10.51,cents per kilowatthour
+2018-04,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatthour
+2018-04,US,U.S. Total,TRA,transportation,9.47,cents per kilowatthour
+2018-04,US,U.S. Total,RES,residential,12.88,cents per kilowatthour
+2018-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-04,US,U.S. Total,IND,industrial,6.57,cents per kilowatthour
+2018-04,US,U.S. Total,COM,commercial,10.46,cents per kilowatthour
+2018-03,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatthour
+2018-03,US,U.S. Total,TRA,transportation,9.4,cents per kilowatthour
+2018-03,US,U.S. Total,RES,residential,12.97,cents per kilowatthour
+2018-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-03,US,U.S. Total,IND,industrial,6.63,cents per kilowatthour
+2018-03,US,U.S. Total,COM,commercial,10.51,cents per kilowatthour
+2018-02,US,U.S. Total,ALL,all sectors,10.42,cents per kilowatthour
+2018-02,US,U.S. Total,TRA,transportation,9.78,cents per kilowatthour
+2018-02,US,U.S. Total,RES,residential,12.63,cents per kilowatthour
+2018-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-02,US,U.S. Total,IND,industrial,6.78,cents per kilowatthour
+2018-02,US,U.S. Total,COM,commercial,10.65,cents per kilowatthour
+2018-01,US,U.S. Total,ALL,all sectors,10.41,cents per kilowatthour
+2018-01,US,U.S. Total,TRA,transportation,9.39,cents per kilowatthour
+2018-01,US,U.S. Total,RES,residential,12.22,cents per kilowatthour
+2018-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2018-01,US,U.S. Total,IND,industrial,6.94,cents per kilowatthour
+2018-01,US,U.S. Total,COM,commercial,10.49,cents per kilowatthour
+2017-12,US,U.S. Total,ALL,all sectors,10.17,cents per kilowatthour
+2017-12,US,U.S. Total,TRA,transportation,9.35,cents per kilowatthour
+2017-12,US,U.S. Total,RES,residential,12.45,cents per kilowatthour
+2017-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-12,US,U.S. Total,IND,industrial,6.54,cents per kilowatthour
+2017-12,US,U.S. Total,COM,commercial,10.28,cents per kilowatthour
+2017-11,US,U.S. Total,TRA,transportation,9.5,cents per kilowatthour
+2017-11,US,U.S. Total,RES,residential,12.94,cents per kilowatthour
+2017-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-11,US,U.S. Total,IND,industrial,6.73,cents per kilowatthour
+2017-11,US,U.S. Total,COM,commercial,10.49,cents per kilowatthour
+2017-11,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatthour
+2017-10,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatthour
+2017-10,US,U.S. Total,TRA,transportation,9.57,cents per kilowatthour
+2017-10,US,U.S. Total,RES,residential,12.8,cents per kilowatthour
+2017-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-10,US,U.S. Total,IND,industrial,6.91,cents per kilowatthour
+2017-10,US,U.S. Total,COM,commercial,10.78,cents per kilowatthour
+2017-09,US,U.S. Total,IND,industrial,7.17,cents per kilowatthour
+2017-09,US,U.S. Total,COM,commercial,11.03,cents per kilowatthour
+2017-09,US,U.S. Total,ALL,all sectors,10.86,cents per kilowatthour
+2017-09,US,U.S. Total,TRA,transportation,9.99,cents per kilowatthour
+2017-09,US,U.S. Total,RES,residential,13.28,cents per kilowatthour
+2017-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-08,US,U.S. Total,ALL,all sectors,10.91,cents per kilowatthour
+2017-08,US,U.S. Total,TRA,transportation,10.06,cents per kilowatthour
+2017-08,US,U.S. Total,RES,residential,13.15,cents per kilowatthour
+2017-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-08,US,U.S. Total,IND,industrial,7.22,cents per kilowatthour
+2017-08,US,U.S. Total,COM,commercial,11.01,cents per kilowatthour
+2017-07,US,U.S. Total,ALL,all sectors,10.95,cents per kilowatthour
+2017-07,US,U.S. Total,TRA,transportation,10.12,cents per kilowatthour
+2017-07,US,U.S. Total,RES,residential,13.08,cents per kilowatthour
+2017-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-07,US,U.S. Total,IND,industrial,7.31,cents per kilowatthour
+2017-07,US,U.S. Total,COM,commercial,10.97,cents per kilowatthour
+2017-06,US,U.S. Total,ALL,all sectors,10.83,cents per kilowatthour
+2017-06,US,U.S. Total,TRA,transportation,10.18,cents per kilowatthour
+2017-06,US,U.S. Total,RES,residential,13.2,cents per kilowatthour
+2017-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-06,US,U.S. Total,IND,industrial,7.19,cents per kilowatthour
+2017-06,US,U.S. Total,COM,commercial,11.01,cents per kilowatthour
+2017-05,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatthour
+2017-05,US,U.S. Total,TRA,transportation,9.61,cents per kilowatthour
+2017-05,US,U.S. Total,RES,residential,13.07,cents per kilowatthour
+2017-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-05,US,U.S. Total,IND,industrial,6.78,cents per kilowatthour
+2017-05,US,U.S. Total,COM,commercial,10.59,cents per kilowatthour
+2017-04,US,U.S. Total,ALL,all sectors,10.07,cents per kilowatthour
+2017-04,US,U.S. Total,TRA,transportation,9.46,cents per kilowatthour
+2017-04,US,U.S. Total,RES,residential,12.72,cents per kilowatthour
+2017-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-04,US,U.S. Total,IND,industrial,6.6,cents per kilowatthour
+2017-04,US,U.S. Total,COM,commercial,10.4,cents per kilowatthour
+2017-03,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatthour
+2017-03,US,U.S. Total,TRA,transportation,9.49,cents per kilowatthour
+2017-03,US,U.S. Total,RES,residential,12.89,cents per kilowatthour
+2017-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-03,US,U.S. Total,IND,industrial,6.71,cents per kilowatthour
+2017-03,US,U.S. Total,COM,commercial,10.46,cents per kilowatthour
+2017-02,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatthour
+2017-02,US,U.S. Total,TRA,transportation,9.5,cents per kilowatthour
+2017-02,US,U.S. Total,RES,residential,12.79,cents per kilowatthour
+2017-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-02,US,U.S. Total,IND,industrial,6.63,cents per kilowatthour
+2017-02,US,U.S. Total,COM,commercial,10.48,cents per kilowatthour
+2017-01,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatthour
+2017-01,US,U.S. Total,TRA,transportation,9.39,cents per kilowatthour
+2017-01,US,U.S. Total,RES,residential,12.21,cents per kilowatthour
+2017-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2017-01,US,U.S. Total,IND,industrial,6.59,cents per kilowatthour
+2017-01,US,U.S. Total,COM,commercial,10.21,cents per kilowatthour
+2016-12,US,U.S. Total,ALL,all sectors,10.09,cents per kilowatthour
+2016-12,US,U.S. Total,TRA,transportation,9.49,cents per kilowatthour
+2016-12,US,U.S. Total,RES,residential,12.23,cents per kilowatthour
+2016-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-12,US,U.S. Total,IND,industrial,6.67,cents per kilowatthour
+2016-12,US,U.S. Total,COM,commercial,10.17,cents per kilowatthour
+2016-11,US,U.S. Total,ALL,all sectors,10.1,cents per kilowatthour
+2016-11,US,U.S. Total,TRA,transportation,9.22,cents per kilowatthour
+2016-11,US,U.S. Total,RES,residential,12.75,cents per kilowatthour
+2016-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-11,US,U.S. Total,IND,industrial,6.66,cents per kilowatthour
+2016-11,US,U.S. Total,COM,commercial,10.32,cents per kilowatthour
+2016-10,US,U.S. Total,ALL,all sectors,10.15,cents per kilowatthour
+2016-10,US,U.S. Total,TRA,transportation,9.62,cents per kilowatthour
+2016-10,US,U.S. Total,RES,residential,12.46,cents per kilowatthour
+2016-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-10,US,U.S. Total,IND,industrial,6.73,cents per kilowatthour
+2016-10,US,U.S. Total,COM,commercial,10.55,cents per kilowatthour
+2016-09,US,U.S. Total,ALL,all sectors,10.68,cents per kilowatthour
+2016-09,US,U.S. Total,TRA,transportation,10,cents per kilowatthour
+2016-09,US,U.S. Total,RES,residential,12.87,cents per kilowatthour
+2016-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-09,US,U.S. Total,IND,industrial,7.14,cents per kilowatthour
+2016-09,US,U.S. Total,COM,commercial,10.77,cents per kilowatthour
+2016-08,US,U.S. Total,ALL,all sectors,10.81,cents per kilowatthour
+2016-08,US,U.S. Total,TRA,transportation,10.04,cents per kilowatthour
+2016-08,US,U.S. Total,RES,residential,12.88,cents per kilowatthour
+2016-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-08,US,U.S. Total,IND,industrial,7.23,cents per kilowatthour
+2016-08,US,U.S. Total,COM,commercial,10.76,cents per kilowatthour
+2016-07,US,U.S. Total,ALL,all sectors,10.7,cents per kilowatthour
+2016-07,US,U.S. Total,TRA,transportation,9.84,cents per kilowatthour
+2016-07,US,U.S. Total,RES,residential,12.68,cents per kilowatthour
+2016-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-07,US,U.S. Total,IND,industrial,7.23,cents per kilowatthour
+2016-07,US,U.S. Total,COM,commercial,10.68,cents per kilowatthour
+2016-06,US,U.S. Total,ALL,all sectors,10.52,cents per kilowatthour
+2016-06,US,U.S. Total,TRA,transportation,9.75,cents per kilowatthour
+2016-06,US,U.S. Total,RES,residential,12.73,cents per kilowatthour
+2016-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-06,US,U.S. Total,IND,industrial,7.03,cents per kilowatthour
+2016-06,US,U.S. Total,COM,commercial,10.66,cents per kilowatthour
+2016-05,US,U.S. Total,ALL,all sectors,10.06,cents per kilowatthour
+2016-05,US,U.S. Total,TRA,transportation,9.28,cents per kilowatthour
+2016-05,US,U.S. Total,RES,residential,12.79,cents per kilowatthour
+2016-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-05,US,U.S. Total,IND,industrial,6.57,cents per kilowatthour
+2016-05,US,U.S. Total,COM,commercial,10.31,cents per kilowatthour
+2016-04,US,U.S. Total,ALL,all sectors,9.83,cents per kilowatthour
+2016-04,US,U.S. Total,TRA,transportation,9.53,cents per kilowatthour
+2016-04,US,U.S. Total,RES,residential,12.43,cents per kilowatthour
+2016-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-04,US,U.S. Total,IND,industrial,6.44,cents per kilowatthour
+2016-04,US,U.S. Total,COM,commercial,10.19,cents per kilowatthour
+2016-03,US,U.S. Total,IND,industrial,6.46,cents per kilowatthour
+2016-03,US,U.S. Total,COM,commercial,10.23,cents per kilowatthour
+2016-03,US,U.S. Total,ALL,all sectors,10,cents per kilowatthour
+2016-03,US,U.S. Total,TRA,transportation,9.56,cents per kilowatthour
+2016-03,US,U.S. Total,RES,residential,12.56,cents per kilowatthour
+2016-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-02,US,U.S. Total,ALL,all sectors,10,cents per kilowatthour
+2016-02,US,U.S. Total,TRA,transportation,9.61,cents per kilowatthour
+2016-02,US,U.S. Total,RES,residential,12.14,cents per kilowatthour
+2016-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-02,US,U.S. Total,IND,industrial,6.42,cents per kilowatthour
+2016-02,US,U.S. Total,COM,commercial,10.25,cents per kilowatthour
+2016-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2016-01,US,U.S. Total,IND,industrial,6.44,cents per kilowatthour
+2016-01,US,U.S. Total,COM,commercial,10.08,cents per kilowatthour
+2016-01,US,U.S. Total,ALL,all sectors,9.97,cents per kilowatthour
+2016-01,US,U.S. Total,TRA,transportation,9.52,cents per kilowatthour
+2016-01,US,U.S. Total,RES,residential,11.99,cents per kilowatthour
+2015-12,US,U.S. Total,ALL,all sectors,9.98,cents per kilowatthour
+2015-12,US,U.S. Total,TRA,transportation,9.81,cents per kilowatthour
+2015-12,US,U.S. Total,RES,residential,12.32,cents per kilowatthour
+2015-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-12,US,U.S. Total,IND,industrial,6.45,cents per kilowatthour
+2015-12,US,U.S. Total,COM,commercial,10.13,cents per kilowatthour
+2015-11,US,U.S. Total,ALL,all sectors,10.05,cents per kilowatthour
+2015-11,US,U.S. Total,TRA,transportation,9.63,cents per kilowatthour
+2015-11,US,U.S. Total,RES,residential,12.71,cents per kilowatthour
+2015-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-11,US,U.S. Total,IND,industrial,6.61,cents per kilowatthour
+2015-11,US,U.S. Total,COM,commercial,10.3,cents per kilowatthour
+2015-10,US,U.S. Total,ALL,all sectors,10.31,cents per kilowatthour
+2015-10,US,U.S. Total,TRA,transportation,9.91,cents per kilowatthour
+2015-10,US,U.S. Total,RES,residential,12.72,cents per kilowatthour
+2015-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-10,US,U.S. Total,IND,industrial,6.88,cents per kilowatthour
+2015-10,US,U.S. Total,COM,commercial,10.73,cents per kilowatthour
+2015-09,US,U.S. Total,ALL,all sectors,10.79,cents per kilowatthour
+2015-09,US,U.S. Total,TRA,transportation,10.29,cents per kilowatthour
+2015-09,US,U.S. Total,RES,residential,13.03,cents per kilowatthour
+2015-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-09,US,U.S. Total,IND,industrial,7.21,cents per kilowatthour
+2015-09,US,U.S. Total,COM,commercial,10.98,cents per kilowatthour
+2015-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-08,US,U.S. Total,IND,industrial,7.35,cents per kilowatthour
+2015-08,US,U.S. Total,COM,commercial,10.94,cents per kilowatthour
+2015-08,US,U.S. Total,ALL,all sectors,10.85,cents per kilowatthour
+2015-08,US,U.S. Total,TRA,transportation,10.14,cents per kilowatthour
+2015-08,US,U.S. Total,RES,residential,12.91,cents per kilowatthour
+2015-07,US,U.S. Total,ALL,all sectors,10.95,cents per kilowatthour
+2015-07,US,U.S. Total,TRA,transportation,10.34,cents per kilowatthour
+2015-07,US,U.S. Total,RES,residential,12.94,cents per kilowatthour
+2015-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-07,US,U.S. Total,IND,industrial,7.45,cents per kilowatthour
+2015-07,US,U.S. Total,COM,commercial,11.07,cents per kilowatthour
+2015-06,US,U.S. Total,ALL,all sectors,10.64,cents per kilowatthour
+2015-06,US,U.S. Total,TRA,transportation,10.15,cents per kilowatthour
+2015-06,US,U.S. Total,RES,residential,12.92,cents per kilowatthour
+2015-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-06,US,U.S. Total,IND,industrial,7.11,cents per kilowatthour
+2015-06,US,U.S. Total,COM,commercial,10.89,cents per kilowatthour
+2015-05,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatthour
+2015-05,US,U.S. Total,TRA,transportation,9.87,cents per kilowatthour
+2015-05,US,U.S. Total,RES,residential,12.93,cents per kilowatthour
+2015-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-05,US,U.S. Total,IND,industrial,6.74,cents per kilowatthour
+2015-05,US,U.S. Total,COM,commercial,10.47,cents per kilowatthour
+2015-04,US,U.S. Total,ALL,all sectors,10.01,cents per kilowatthour
+2015-04,US,U.S. Total,TRA,transportation,9.76,cents per kilowatthour
+2015-04,US,U.S. Total,RES,residential,12.62,cents per kilowatthour
+2015-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-04,US,U.S. Total,IND,industrial,6.61,cents per kilowatthour
+2015-04,US,U.S. Total,COM,commercial,10.37,cents per kilowatthour
+2015-03,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatthour
+2015-03,US,U.S. Total,TRA,transportation,10.12,cents per kilowatthour
+2015-03,US,U.S. Total,RES,residential,12.33,cents per kilowatthour
+2015-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-03,US,U.S. Total,IND,industrial,6.83,cents per kilowatthour
+2015-03,US,U.S. Total,COM,commercial,10.63,cents per kilowatthour
+2015-02,US,U.S. Total,ALL,all sectors,10.36,cents per kilowatthour
+2015-02,US,U.S. Total,TRA,transportation,10.49,cents per kilowatthour
+2015-02,US,U.S. Total,RES,residential,12.29,cents per kilowatthour
+2015-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-02,US,U.S. Total,IND,industrial,6.88,cents per kilowatthour
+2015-02,US,U.S. Total,COM,commercial,10.62,cents per kilowatthour
+2015-01,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatthour
+2015-01,US,U.S. Total,TRA,transportation,10.45,cents per kilowatthour
+2015-01,US,U.S. Total,RES,residential,12.1,cents per kilowatthour
+2015-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2015-01,US,U.S. Total,IND,industrial,6.67,cents per kilowatthour
+2015-01,US,U.S. Total,COM,commercial,10.31,cents per kilowatthour
+2014-12,US,U.S. Total,ALL,all sectors,10.12,cents per kilowatthour
+2014-12,US,U.S. Total,TRA,transportation,10.48,cents per kilowatthour
+2014-12,US,U.S. Total,RES,residential,12.17,cents per kilowatthour
+2014-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-12,US,U.S. Total,IND,industrial,6.7,cents per kilowatthour
+2014-12,US,U.S. Total,COM,commercial,10.36,cents per kilowatthour
+2014-11,US,U.S. Total,IND,industrial,6.75,cents per kilowatthour
+2014-11,US,U.S. Total,COM,commercial,10.52,cents per kilowatthour
+2014-11,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatthour
+2014-11,US,U.S. Total,TRA,transportation,10.2,cents per kilowatthour
+2014-11,US,U.S. Total,RES,residential,12.48,cents per kilowatthour
+2014-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-10,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatthour
+2014-10,US,U.S. Total,TRA,transportation,10.27,cents per kilowatthour
+2014-10,US,U.S. Total,RES,residential,12.6,cents per kilowatthour
+2014-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-10,US,U.S. Total,IND,industrial,7.07,cents per kilowatthour
+2014-10,US,U.S. Total,COM,commercial,10.83,cents per kilowatthour
+2014-09,US,U.S. Total,ALL,all sectors,10.83,cents per kilowatthour
+2014-09,US,U.S. Total,TRA,transportation,11.02,cents per kilowatthour
+2014-09,US,U.S. Total,RES,residential,12.95,cents per kilowatthour
+2014-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-09,US,U.S. Total,IND,industrial,7.37,cents per kilowatthour
+2014-09,US,U.S. Total,COM,commercial,11.16,cents per kilowatthour
+2014-08,US,U.S. Total,ALL,all sectors,10.91,cents per kilowatthour
+2014-08,US,U.S. Total,TRA,transportation,10.02,cents per kilowatthour
+2014-08,US,U.S. Total,RES,residential,13.04,cents per kilowatthour
+2014-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-08,US,U.S. Total,IND,industrial,7.51,cents per kilowatthour
+2014-08,US,U.S. Total,COM,commercial,11.05,cents per kilowatthour
+2014-07,US,U.S. Total,ALL,all sectors,11.03,cents per kilowatthour
+2014-07,US,U.S. Total,TRA,transportation,10.68,cents per kilowatthour
+2014-07,US,U.S. Total,RES,residential,13.09,cents per kilowatthour
+2014-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-07,US,U.S. Total,IND,industrial,7.62,cents per kilowatthour
+2014-07,US,U.S. Total,COM,commercial,11.17,cents per kilowatthour
+2014-06,US,U.S. Total,ALL,all sectors,10.75,cents per kilowatthour
+2014-06,US,U.S. Total,TRA,transportation,10.6,cents per kilowatthour
+2014-06,US,U.S. Total,RES,residential,12.99,cents per kilowatthour
+2014-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-06,US,U.S. Total,IND,industrial,7.39,cents per kilowatthour
+2014-06,US,U.S. Total,COM,commercial,10.96,cents per kilowatthour
+2014-05,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatthour
+2014-05,US,U.S. Total,TRA,transportation,10.06,cents per kilowatthour
+2014-05,US,U.S. Total,RES,residential,12.85,cents per kilowatthour
+2014-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-05,US,U.S. Total,IND,industrial,6.83,cents per kilowatthour
+2014-05,US,U.S. Total,COM,commercial,10.54,cents per kilowatthour
+2014-04,US,U.S. Total,ALL,all sectors,10,cents per kilowatthour
+2014-04,US,U.S. Total,TRA,transportation,10.23,cents per kilowatthour
+2014-04,US,U.S. Total,RES,residential,12.31,cents per kilowatthour
+2014-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-04,US,U.S. Total,IND,industrial,6.77,cents per kilowatthour
+2014-04,US,U.S. Total,COM,commercial,10.46,cents per kilowatthour
+2014-03,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatthour
+2014-03,US,U.S. Total,TRA,transportation,10.43,cents per kilowatthour
+2014-03,US,U.S. Total,RES,residential,12.25,cents per kilowatthour
+2014-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-03,US,U.S. Total,IND,industrial,6.99,cents per kilowatthour
+2014-03,US,U.S. Total,COM,commercial,10.65,cents per kilowatthour
+2014-02,US,U.S. Total,ALL,all sectors,10.33,cents per kilowatthour
+2014-02,US,U.S. Total,TRA,transportation,10.41,cents per kilowatthour
+2014-02,US,U.S. Total,RES,residential,11.94,cents per kilowatthour
+2014-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-02,US,U.S. Total,IND,industrial,7.12,cents per kilowatthour
+2014-02,US,U.S. Total,COM,commercial,10.68,cents per kilowatthour
+2014-01,US,U.S. Total,ALL,all sectors,10.12,cents per kilowatthour
+2014-01,US,U.S. Total,TRA,transportation,10.93,cents per kilowatthour
+2014-01,US,U.S. Total,RES,residential,11.65,cents per kilowatthour
+2014-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2014-01,US,U.S. Total,IND,industrial,6.98,cents per kilowatthour
+2014-01,US,U.S. Total,COM,commercial,10.35,cents per kilowatthour
+2013-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-12,US,U.S. Total,IND,industrial,6.66,cents per kilowatthour
+2013-12,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2013-12,US,U.S. Total,ALL,all sectors,9.86,cents per kilowatthour
+2013-12,US,U.S. Total,TRA,transportation,10.2,cents per kilowatthour
+2013-12,US,U.S. Total,RES,residential,11.72,cents per kilowatthour
+2013-11,US,U.S. Total,ALL,all sectors,9.79,cents per kilowatthour
+2013-11,US,U.S. Total,TRA,transportation,10.49,cents per kilowatthour
+2013-11,US,U.S. Total,RES,residential,12.1,cents per kilowatthour
+2013-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-11,US,U.S. Total,IND,industrial,6.65,cents per kilowatthour
+2013-11,US,U.S. Total,COM,commercial,10.03,cents per kilowatthour
+2013-10,US,U.S. Total,ALL,all sectors,10.02,cents per kilowatthour
+2013-10,US,U.S. Total,TRA,transportation,10.46,cents per kilowatthour
+2013-10,US,U.S. Total,RES,residential,12.36,cents per kilowatthour
+2013-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-10,US,U.S. Total,IND,industrial,6.87,cents per kilowatthour
+2013-10,US,U.S. Total,COM,commercial,10.28,cents per kilowatthour
+2013-09,US,U.S. Total,ALL,all sectors,10.43,cents per kilowatthour
+2013-09,US,U.S. Total,TRA,transportation,10.88,cents per kilowatthour
+2013-09,US,U.S. Total,RES,residential,12.51,cents per kilowatthour
+2013-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-09,US,U.S. Total,IND,industrial,7.22,cents per kilowatthour
+2013-09,US,U.S. Total,COM,commercial,10.53,cents per kilowatthour
+2013-08,US,U.S. Total,ALL,all sectors,10.58,cents per kilowatthour
+2013-08,US,U.S. Total,TRA,transportation,10.77,cents per kilowatthour
+2013-08,US,U.S. Total,RES,residential,12.53,cents per kilowatthour
+2013-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-08,US,U.S. Total,IND,industrial,7.37,cents per kilowatthour
+2013-08,US,U.S. Total,COM,commercial,10.69,cents per kilowatthour
+2013-07,US,U.S. Total,ALL,all sectors,10.69,cents per kilowatthour
+2013-07,US,U.S. Total,TRA,transportation,10.97,cents per kilowatthour
+2013-07,US,U.S. Total,RES,residential,12.65,cents per kilowatthour
+2013-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-07,US,U.S. Total,IND,industrial,7.45,cents per kilowatthour
+2013-07,US,U.S. Total,COM,commercial,10.7,cents per kilowatthour
+2013-06,US,U.S. Total,ALL,all sectors,10.45,cents per kilowatthour
+2013-06,US,U.S. Total,TRA,transportation,10.76,cents per kilowatthour
+2013-06,US,U.S. Total,RES,residential,12.54,cents per kilowatthour
+2013-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-06,US,U.S. Total,IND,industrial,7.25,cents per kilowatthour
+2013-06,US,U.S. Total,COM,commercial,10.65,cents per kilowatthour
+2013-05,US,U.S. Total,ALL,all sectors,9.92,cents per kilowatthour
+2013-05,US,U.S. Total,TRA,transportation,10.5,cents per kilowatthour
+2013-05,US,U.S. Total,RES,residential,12.4,cents per kilowatthour
+2013-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-05,US,U.S. Total,IND,industrial,6.75,cents per kilowatthour
+2013-05,US,U.S. Total,COM,commercial,10.22,cents per kilowatthour
+2013-04,US,U.S. Total,ALL,all sectors,9.66,cents per kilowatthour
+2013-04,US,U.S. Total,TRA,transportation,10.28,cents per kilowatthour
+2013-04,US,U.S. Total,RES,residential,11.93,cents per kilowatthour
+2013-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-04,US,U.S. Total,IND,industrial,6.58,cents per kilowatthour
+2013-04,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2013-03,US,U.S. Total,ALL,all sectors,9.71,cents per kilowatthour
+2013-03,US,U.S. Total,TRA,transportation,10.25,cents per kilowatthour
+2013-03,US,U.S. Total,RES,residential,11.61,cents per kilowatthour
+2013-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-03,US,U.S. Total,IND,industrial,6.64,cents per kilowatthour
+2013-03,US,U.S. Total,COM,commercial,10.02,cents per kilowatthour
+2013-02,US,U.S. Total,ALL,all sectors,9.77,cents per kilowatthour
+2013-02,US,U.S. Total,TRA,transportation,10.56,cents per kilowatthour
+2013-02,US,U.S. Total,RES,residential,11.63,cents per kilowatthour
+2013-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-02,US,U.S. Total,IND,industrial,6.66,cents per kilowatthour
+2013-02,US,U.S. Total,COM,commercial,10.06,cents per kilowatthour
+2013-01,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatthour
+2013-01,US,U.S. Total,TRA,transportation,10.53,cents per kilowatthour
+2013-01,US,U.S. Total,RES,residential,11.46,cents per kilowatthour
+2013-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2013-01,US,U.S. Total,IND,industrial,6.5,cents per kilowatthour
+2013-01,US,U.S. Total,COM,commercial,9.77,cents per kilowatthour
+2012-12,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatthour
+2012-12,US,U.S. Total,TRA,transportation,10.28,cents per kilowatthour
+2012-12,US,U.S. Total,RES,residential,11.62,cents per kilowatthour
+2012-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-12,US,U.S. Total,IND,industrial,6.52,cents per kilowatthour
+2012-12,US,U.S. Total,COM,commercial,9.81,cents per kilowatthour
+2012-11,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatthour
+2012-11,US,U.S. Total,TRA,transportation,10.41,cents per kilowatthour
+2012-11,US,U.S. Total,RES,residential,11.75,cents per kilowatthour
+2012-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-11,US,U.S. Total,IND,industrial,6.5,cents per kilowatthour
+2012-11,US,U.S. Total,COM,commercial,9.89,cents per kilowatthour
+2012-10,US,U.S. Total,ALL,all sectors,9.74,cents per kilowatthour
+2012-10,US,U.S. Total,TRA,transportation,10.13,cents per kilowatthour
+2012-10,US,U.S. Total,RES,residential,12.03,cents per kilowatthour
+2012-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-10,US,U.S. Total,IND,industrial,6.62,cents per kilowatthour
+2012-10,US,U.S. Total,COM,commercial,10.08,cents per kilowatthour
+2012-09,US,U.S. Total,ALL,all sectors,10.26,cents per kilowatthour
+2012-09,US,U.S. Total,TRA,transportation,10.74,cents per kilowatthour
+2012-09,US,U.S. Total,RES,residential,12.3,cents per kilowatthour
+2012-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-09,US,U.S. Total,IND,industrial,6.97,cents per kilowatthour
+2012-09,US,U.S. Total,COM,commercial,10.5,cents per kilowatthour
+2012-08,US,U.S. Total,ALL,all sectors,10.32,cents per kilowatthour
+2012-08,US,U.S. Total,TRA,transportation,10.53,cents per kilowatthour
+2012-08,US,U.S. Total,RES,residential,12.17,cents per kilowatthour
+2012-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-08,US,U.S. Total,IND,industrial,7.08,cents per kilowatthour
+2012-08,US,U.S. Total,COM,commercial,10.39,cents per kilowatthour
+2012-07,US,U.S. Total,ALL,all sectors,10.3,cents per kilowatthour
+2012-07,US,U.S. Total,TRA,transportation,10.7,cents per kilowatthour
+2012-07,US,U.S. Total,RES,residential,12,cents per kilowatthour
+2012-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-07,US,U.S. Total,IND,industrial,7.13,cents per kilowatthour
+2012-07,US,U.S. Total,COM,commercial,10.39,cents per kilowatthour
+2012-06,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatthour
+2012-06,US,U.S. Total,TRA,transportation,10.33,cents per kilowatthour
+2012-06,US,U.S. Total,RES,residential,12.09,cents per kilowatthour
+2012-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-06,US,U.S. Total,IND,industrial,6.89,cents per kilowatthour
+2012-06,US,U.S. Total,COM,commercial,10.39,cents per kilowatthour
+2012-05,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatthour
+2012-05,US,U.S. Total,TRA,transportation,9.97,cents per kilowatthour
+2012-05,US,U.S. Total,RES,residential,11.9,cents per kilowatthour
+2012-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-05,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2012-05,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2012-04,US,U.S. Total,ALL,all sectors,9.47,cents per kilowatthour
+2012-04,US,U.S. Total,TRA,transportation,10.11,cents per kilowatthour
+2012-04,US,U.S. Total,RES,residential,11.92,cents per kilowatthour
+2012-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-04,US,U.S. Total,IND,industrial,6.38,cents per kilowatthour
+2012-04,US,U.S. Total,COM,commercial,9.82,cents per kilowatthour
+2012-03,US,U.S. Total,ALL,all sectors,9.52,cents per kilowatthour
+2012-03,US,U.S. Total,TRA,transportation,9.95,cents per kilowatthour
+2012-03,US,U.S. Total,RES,residential,11.7,cents per kilowatthour
+2012-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-03,US,U.S. Total,IND,industrial,6.46,cents per kilowatthour
+2012-03,US,U.S. Total,COM,commercial,9.84,cents per kilowatthour
+2012-02,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatthour
+2012-02,US,U.S. Total,TRA,transportation,9.61,cents per kilowatthour
+2012-02,US,U.S. Total,RES,residential,11.51,cents per kilowatthour
+2012-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-02,US,U.S. Total,IND,industrial,6.45,cents per kilowatthour
+2012-02,US,U.S. Total,COM,commercial,9.94,cents per kilowatthour
+2012-01,US,U.S. Total,ALL,all sectors,9.61,cents per kilowatthour
+2012-01,US,U.S. Total,TRA,transportation,9.78,cents per kilowatthour
+2012-01,US,U.S. Total,RES,residential,11.41,cents per kilowatthour
+2012-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2012-01,US,U.S. Total,IND,industrial,6.44,cents per kilowatthour
+2012-01,US,U.S. Total,COM,commercial,9.84,cents per kilowatthour
+2011-12,US,U.S. Total,ALL,all sectors,9.53,cents per kilowatthour
+2011-12,US,U.S. Total,TRA,transportation,9.79,cents per kilowatthour
+2011-12,US,U.S. Total,RES,residential,11.4,cents per kilowatthour
+2011-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-12,US,U.S. Total,IND,industrial,6.51,cents per kilowatthour
+2011-12,US,U.S. Total,COM,commercial,9.77,cents per kilowatthour
+2011-11,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatthour
+2011-11,US,U.S. Total,TRA,transportation,9.93,cents per kilowatthour
+2011-11,US,U.S. Total,RES,residential,11.78,cents per kilowatthour
+2011-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-11,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2011-11,US,U.S. Total,COM,commercial,9.98,cents per kilowatthour
+2011-10,US,U.S. Total,ALL,all sectors,9.83,cents per kilowatthour
+2011-10,US,U.S. Total,TRA,transportation,10.25,cents per kilowatthour
+2011-10,US,U.S. Total,RES,residential,12.08,cents per kilowatthour
+2011-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-10,US,U.S. Total,IND,industrial,6.77,cents per kilowatthour
+2011-10,US,U.S. Total,COM,commercial,10.25,cents per kilowatthour
+2011-09,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatthour
+2011-09,US,U.S. Total,TRA,transportation,10.8,cents per kilowatthour
+2011-09,US,U.S. Total,RES,residential,12.17,cents per kilowatthour
+2011-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-09,US,U.S. Total,IND,industrial,7.15,cents per kilowatthour
+2011-09,US,U.S. Total,COM,commercial,10.59,cents per kilowatthour
+2011-08,US,U.S. Total,ALL,all sectors,10.49,cents per kilowatthour
+2011-08,US,U.S. Total,TRA,transportation,10.82,cents per kilowatthour
+2011-08,US,U.S. Total,RES,residential,12.09,cents per kilowatthour
+2011-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-08,US,U.S. Total,IND,industrial,7.39,cents per kilowatthour
+2011-08,US,U.S. Total,COM,commercial,10.72,cents per kilowatthour
+2011-07,US,U.S. Total,ALL,all sectors,10.47,cents per kilowatthour
+2011-07,US,U.S. Total,TRA,transportation,11.21,cents per kilowatthour
+2011-07,US,U.S. Total,RES,residential,12.09,cents per kilowatthour
+2011-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-07,US,U.S. Total,IND,industrial,7.32,cents per kilowatthour
+2011-07,US,U.S. Total,COM,commercial,10.67,cents per kilowatthour
+2011-06,US,U.S. Total,ALL,all sectors,10.26,cents per kilowatthour
+2011-06,US,U.S. Total,TRA,transportation,11.01,cents per kilowatthour
+2011-06,US,U.S. Total,RES,residential,11.97,cents per kilowatthour
+2011-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-06,US,U.S. Total,IND,industrial,7.14,cents per kilowatthour
+2011-06,US,U.S. Total,COM,commercial,10.66,cents per kilowatthour
+2011-05,US,U.S. Total,ALL,all sectors,9.78,cents per kilowatthour
+2011-05,US,U.S. Total,TRA,transportation,10.7,cents per kilowatthour
+2011-05,US,U.S. Total,RES,residential,11.93,cents per kilowatthour
+2011-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-05,US,U.S. Total,IND,industrial,6.68,cents per kilowatthour
+2011-05,US,U.S. Total,COM,commercial,10.19,cents per kilowatthour
+2011-04,US,U.S. Total,ALL,all sectors,9.54,cents per kilowatthour
+2011-04,US,U.S. Total,TRA,transportation,9.97,cents per kilowatthour
+2011-04,US,U.S. Total,RES,residential,11.67,cents per kilowatthour
+2011-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-04,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2011-04,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2011-03,US,U.S. Total,ALL,all sectors,9.55,cents per kilowatthour
+2011-03,US,U.S. Total,TRA,transportation,10.24,cents per kilowatthour
+2011-03,US,U.S. Total,RES,residential,11.52,cents per kilowatthour
+2011-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-03,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2011-03,US,U.S. Total,COM,commercial,9.93,cents per kilowatthour
+2011-02,US,U.S. Total,ALL,all sectors,9.56,cents per kilowatthour
+2011-02,US,U.S. Total,TRA,transportation,10.55,cents per kilowatthour
+2011-02,US,U.S. Total,RES,residential,11.06,cents per kilowatthour
+2011-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-02,US,U.S. Total,IND,industrial,6.63,cents per kilowatthour
+2011-02,US,U.S. Total,COM,commercial,9.99,cents per kilowatthour
+2011-01,US,U.S. Total,ALL,all sectors,9.48,cents per kilowatthour
+2011-01,US,U.S. Total,TRA,transportation,10.29,cents per kilowatthour
+2011-01,US,U.S. Total,RES,residential,10.87,cents per kilowatthour
+2011-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2011-01,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2011-01,US,U.S. Total,COM,commercial,9.78,cents per kilowatthour
+2010-12,US,U.S. Total,ALL,all sectors,9.52,cents per kilowatthour
+2010-12,US,U.S. Total,TRA,transportation,10.08,cents per kilowatthour
+2010-12,US,U.S. Total,RES,residential,11.06,cents per kilowatthour
+2010-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-12,US,U.S. Total,IND,industrial,6.6,cents per kilowatthour
+2010-12,US,U.S. Total,COM,commercial,9.82,cents per kilowatthour
+2010-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-11,US,U.S. Total,IND,industrial,6.56,cents per kilowatthour
+2010-11,US,U.S. Total,COM,commercial,9.99,cents per kilowatthour
+2010-11,US,U.S. Total,ALL,all sectors,9.55,cents per kilowatthour
+2010-11,US,U.S. Total,TRA,transportation,10.47,cents per kilowatthour
+2010-11,US,U.S. Total,RES,residential,11.62,cents per kilowatthour
+2010-10,US,U.S. Total,ALL,all sectors,9.81,cents per kilowatthour
+2010-10,US,U.S. Total,COM,commercial,10.25,cents per kilowatthour
+2010-10,US,U.S. Total,IND,industrial,6.8,cents per kilowatthour
+2010-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-10,US,U.S. Total,RES,residential,11.86,cents per kilowatthour
+2010-10,US,U.S. Total,TRA,transportation,10.53,cents per kilowatthour
+2010-09,US,U.S. Total,ALL,all sectors,10.17,cents per kilowatthour
+2010-09,US,U.S. Total,TRA,transportation,10.54,cents per kilowatthour
+2010-09,US,U.S. Total,RES,residential,11.95,cents per kilowatthour
+2010-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-09,US,U.S. Total,IND,industrial,7,cents per kilowatthour
+2010-09,US,U.S. Total,COM,commercial,10.52,cents per kilowatthour
+2010-08,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatthour
+2010-08,US,U.S. Total,TRA,transportation,10.89,cents per kilowatthour
+2010-08,US,U.S. Total,RES,residential,12.03,cents per kilowatthour
+2010-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-08,US,U.S. Total,IND,industrial,7.22,cents per kilowatthour
+2010-08,US,U.S. Total,COM,commercial,10.62,cents per kilowatthour
+2010-07,US,U.S. Total,ALL,all sectors,10.46,cents per kilowatthour
+2010-07,US,U.S. Total,TRA,transportation,10.97,cents per kilowatthour
+2010-07,US,U.S. Total,RES,residential,12.04,cents per kilowatthour
+2010-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-07,US,U.S. Total,IND,industrial,7.23,cents per kilowatthour
+2010-07,US,U.S. Total,COM,commercial,10.72,cents per kilowatthour
+2010-06,US,U.S. Total,IND,industrial,6.97,cents per kilowatthour
+2010-06,US,U.S. Total,COM,commercial,10.56,cents per kilowatthour
+2010-06,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatthour
+2010-06,US,U.S. Total,TRA,transportation,11.17,cents per kilowatthour
+2010-06,US,U.S. Total,RES,residential,11.91,cents per kilowatthour
+2010-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-05,US,U.S. Total,ALL,all sectors,9.72,cents per kilowatthour
+2010-05,US,U.S. Total,TRA,transportation,10.55,cents per kilowatthour
+2010-05,US,U.S. Total,RES,residential,11.91,cents per kilowatthour
+2010-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-05,US,U.S. Total,IND,industrial,6.64,cents per kilowatthour
+2010-05,US,U.S. Total,COM,commercial,10.15,cents per kilowatthour
+2010-04,US,U.S. Total,ALL,all sectors,9.53,cents per kilowatthour
+2010-04,US,U.S. Total,TRA,transportation,10.54,cents per kilowatthour
+2010-04,US,U.S. Total,RES,residential,11.71,cents per kilowatthour
+2010-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-04,US,U.S. Total,IND,industrial,6.55,cents per kilowatthour
+2010-04,US,U.S. Total,COM,commercial,9.95,cents per kilowatthour
+2010-03,US,U.S. Total,ALL,all sectors,9.48,cents per kilowatthour
+2010-03,US,U.S. Total,TRA,transportation,10.3,cents per kilowatthour
+2010-03,US,U.S. Total,RES,residential,11.11,cents per kilowatthour
+2010-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-03,US,U.S. Total,IND,industrial,6.53,cents per kilowatthour
+2010-03,US,U.S. Total,COM,commercial,9.95,cents per kilowatthour
+2010-02,US,U.S. Total,ALL,all sectors,9.47,cents per kilowatthour
+2010-02,US,U.S. Total,TRA,transportation,10.52,cents per kilowatthour
+2010-02,US,U.S. Total,RES,residential,10.89,cents per kilowatthour
+2010-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-02,US,U.S. Total,IND,industrial,6.55,cents per kilowatthour
+2010-02,US,U.S. Total,COM,commercial,9.89,cents per kilowatthour
+2010-01,US,U.S. Total,ALL,all sectors,9.28,cents per kilowatthour
+2010-01,US,U.S. Total,TRA,transportation,10.19,cents per kilowatthour
+2010-01,US,U.S. Total,RES,residential,10.49,cents per kilowatthour
+2010-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2010-01,US,U.S. Total,IND,industrial,6.5,cents per kilowatthour
+2010-01,US,U.S. Total,COM,commercial,9.55,cents per kilowatthour
+2009-12,US,U.S. Total,IND,industrial,6.54,cents per kilowatthour
+2009-12,US,U.S. Total,TRA,transportation,10.53,cents per kilowatthour
+2009-12,US,U.S. Total,COM,commercial,9.7,cents per kilowatthour
+2009-12,US,U.S. Total,RES,residential,10.9,cents per kilowatthour
+2009-12,US,U.S. Total,ALL,all sectors,9.4,cents per kilowatthour
+2009-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-11,US,U.S. Total,ALL,all sectors,9.34,cents per kilowatthour
+2009-11,US,U.S. Total,TRA,transportation,10.61,cents per kilowatthour
+2009-11,US,U.S. Total,RES,residential,11.26,cents per kilowatthour
+2009-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-11,US,U.S. Total,IND,industrial,6.4,cents per kilowatthour
+2009-11,US,U.S. Total,COM,commercial,9.78,cents per kilowatthour
+2009-10,US,U.S. Total,ALL,all sectors,9.7,cents per kilowatthour
+2009-10,US,U.S. Total,TRA,transportation,10.39,cents per kilowatthour
+2009-10,US,U.S. Total,RES,residential,11.65,cents per kilowatthour
+2009-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-10,US,U.S. Total,IND,industrial,6.7,cents per kilowatthour
+2009-10,US,U.S. Total,COM,commercial,10.13,cents per kilowatthour
+2009-09,US,U.S. Total,ALL,all sectors,10.09,cents per kilowatthour
+2009-09,US,U.S. Total,TRA,transportation,10.73,cents per kilowatthour
+2009-09,US,U.S. Total,RES,residential,11.96,cents per kilowatthour
+2009-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-09,US,U.S. Total,IND,industrial,6.89,cents per kilowatthour
+2009-09,US,U.S. Total,COM,commercial,10.45,cents per kilowatthour
+2009-08,US,U.S. Total,ALL,all sectors,10.27,cents per kilowatthour
+2009-08,US,U.S. Total,TRA,transportation,10.8,cents per kilowatthour
+2009-08,US,U.S. Total,RES,residential,11.94,cents per kilowatthour
+2009-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-08,US,U.S. Total,IND,industrial,7.1,cents per kilowatthour
+2009-08,US,U.S. Total,COM,commercial,10.52,cents per kilowatthour
+2009-07,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatthour
+2009-07,US,U.S. Total,TRA,transportation,11.01,cents per kilowatthour
+2009-07,US,U.S. Total,RES,residential,11.85,cents per kilowatthour
+2009-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-07,US,U.S. Total,IND,industrial,7.1,cents per kilowatthour
+2009-07,US,U.S. Total,COM,commercial,10.56,cents per kilowatthour
+2009-06,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatthour
+2009-06,US,U.S. Total,TRA,transportation,10.77,cents per kilowatthour
+2009-06,US,U.S. Total,IND,industrial,7.09,cents per kilowatthour
+2009-06,US,U.S. Total,COM,commercial,10.46,cents per kilowatthour
+2009-06,US,U.S. Total,RES,residential,11.81,cents per kilowatthour
+2009-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-05,US,U.S. Total,ALL,all sectors,9.77,cents per kilowatthour
+2009-05,US,U.S. Total,TRA,transportation,11.11,cents per kilowatthour
+2009-05,US,U.S. Total,IND,industrial,6.77,cents per kilowatthour
+2009-05,US,U.S. Total,COM,commercial,10.11,cents per kilowatthour
+2009-05,US,U.S. Total,RES,residential,11.78,cents per kilowatthour
+2009-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-04,US,U.S. Total,IND,industrial,6.75,cents per kilowatthour
+2009-04,US,U.S. Total,RES,residential,11.5,cents per kilowatthour
+2009-04,US,U.S. Total,ALL,all sectors,9.57,cents per kilowatthour
+2009-04,US,U.S. Total,TRA,transportation,10.29,cents per kilowatthour
+2009-04,US,U.S. Total,COM,commercial,9.87,cents per kilowatthour
+2009-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-03,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatthour
+2009-03,US,U.S. Total,TRA,transportation,10.98,cents per kilowatthour
+2009-03,US,U.S. Total,RES,residential,11.28,cents per kilowatthour
+2009-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-03,US,U.S. Total,IND,industrial,6.81,cents per kilowatthour
+2009-03,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2009-02,US,U.S. Total,ALL,all sectors,9.78,cents per kilowatthour
+2009-02,US,U.S. Total,TRA,transportation,10.41,cents per kilowatthour
+2009-02,US,U.S. Total,IND,industrial,6.9,cents per kilowatthour
+2009-02,US,U.S. Total,COM,commercial,10.2,cents per kilowatthour
+2009-02,US,U.S. Total,RES,residential,11.18,cents per kilowatthour
+2009-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2009-01,US,U.S. Total,ALL,all sectors,9.68,cents per kilowatthour
+2009-01,US,U.S. Total,TRA,transportation,10.37,cents per kilowatthour
+2009-01,US,U.S. Total,IND,industrial,6.92,cents per kilowatthour
+2009-01,US,U.S. Total,COM,commercial,9.96,cents per kilowatthour
+2009-01,US,U.S. Total,RES,residential,10.98,cents per kilowatthour
+2009-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-12,US,U.S. Total,IND,industrial,6.79,cents per kilowatthour
+2008-12,US,U.S. Total,RES,residential,10.86,cents per kilowatthour
+2008-12,US,U.S. Total,ALL,all sectors,9.53,cents per kilowatthour
+2008-12,US,U.S. Total,TRA,transportation,10.57,cents per kilowatthour
+2008-12,US,U.S. Total,COM,commercial,9.92,cents per kilowatthour
+2008-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-11,US,U.S. Total,ALL,all sectors,9.67,cents per kilowatthour
+2008-11,US,U.S. Total,TRA,transportation,10.2,cents per kilowatthour
+2008-11,US,U.S. Total,IND,industrial,6.93,cents per kilowatthour
+2008-11,US,U.S. Total,COM,commercial,10.16,cents per kilowatthour
+2008-11,US,U.S. Total,RES,residential,11.42,cents per kilowatthour
+2008-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-10,US,U.S. Total,ALL,all sectors,9.94,cents per kilowatthour
+2008-10,US,U.S. Total,TRA,transportation,10.49,cents per kilowatthour
+2008-10,US,U.S. Total,IND,industrial,7.19,cents per kilowatthour
+2008-10,US,U.S. Total,COM,commercial,10.41,cents per kilowatthour
+2008-10,US,U.S. Total,RES,residential,11.81,cents per kilowatthour
+2008-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-09,US,U.S. Total,ALL,all sectors,10.27,cents per kilowatthour
+2008-09,US,U.S. Total,TRA,transportation,11.83,cents per kilowatthour
+2008-09,US,U.S. Total,RES,residential,11.92,cents per kilowatthour
+2008-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-09,US,U.S. Total,IND,industrial,7.31,cents per kilowatthour
+2008-09,US,U.S. Total,COM,commercial,10.77,cents per kilowatthour
+2008-08,US,U.S. Total,ALL,all sectors,10.59,cents per kilowatthour
+2008-08,US,U.S. Total,TRA,transportation,11.65,cents per kilowatthour
+2008-08,US,U.S. Total,RES,residential,12.09,cents per kilowatthour
+2008-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-08,US,U.S. Total,IND,industrial,7.55,cents per kilowatthour
+2008-08,US,U.S. Total,COM,commercial,11.07,cents per kilowatthour
+2008-07,US,U.S. Total,ALL,all sectors,10.65,cents per kilowatthour
+2008-07,US,U.S. Total,COM,commercial,11.1,cents per kilowatthour
+2008-07,US,U.S. Total,IND,industrial,7.72,cents per kilowatthour
+2008-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-07,US,U.S. Total,RES,residential,12.07,cents per kilowatthour
+2008-07,US,U.S. Total,TRA,transportation,11.8,cents per kilowatthour
+2008-06,US,U.S. Total,ALL,all sectors,10.27,cents per kilowatthour
+2008-06,US,U.S. Total,TRA,transportation,11.84,cents per kilowatthour
+2008-06,US,U.S. Total,RES,residential,11.77,cents per kilowatthour
+2008-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-06,US,U.S. Total,IND,industrial,7.35,cents per kilowatthour
+2008-06,US,U.S. Total,COM,commercial,10.87,cents per kilowatthour
+2008-05,US,U.S. Total,ALL,all sectors,9.47,cents per kilowatthour
+2008-05,US,U.S. Total,RES,residential,11.4,cents per kilowatthour
+2008-05,US,U.S. Total,IND,industrial,6.75,cents per kilowatthour
+2008-05,US,U.S. Total,COM,commercial,10.05,cents per kilowatthour
+2008-05,US,U.S. Total,TRA,transportation,10.45,cents per kilowatthour
+2008-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-04,US,U.S. Total,ALL,all sectors,9.22,cents per kilowatthour
+2008-04,US,U.S. Total,TRA,transportation,10.06,cents per kilowatthour
+2008-04,US,U.S. Total,IND,industrial,6.64,cents per kilowatthour
+2008-04,US,U.S. Total,COM,commercial,9.79,cents per kilowatthour
+2008-04,US,U.S. Total,RES,residential,10.93,cents per kilowatthour
+2008-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-03,US,U.S. Total,ALL,all sectors,9.03,cents per kilowatthour
+2008-03,US,U.S. Total,COM,commercial,9.62,cents per kilowatthour
+2008-03,US,U.S. Total,IND,industrial,6.46,cents per kilowatthour
+2008-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-03,US,U.S. Total,RES,residential,10.45,cents per kilowatthour
+2008-03,US,U.S. Total,TRA,transportation,10.14,cents per kilowatthour
+2008-02,US,U.S. Total,ALL,all sectors,8.9,cents per kilowatthour
+2008-02,US,U.S. Total,TRA,transportation,10.06,cents per kilowatthour
+2008-02,US,U.S. Total,IND,industrial,6.34,cents per kilowatthour
+2008-02,US,U.S. Total,COM,commercial,9.46,cents per kilowatthour
+2008-02,US,U.S. Total,RES,residential,10.16,cents per kilowatthour
+2008-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2008-01,US,U.S. Total,COM,commercial,9.39,cents per kilowatthour
+2008-01,US,U.S. Total,ALL,all sectors,8.92,cents per kilowatthour
+2008-01,US,U.S. Total,RES,residential,10.14,cents per kilowatthour
+2008-01,US,U.S. Total,IND,industrial,6.33,cents per kilowatthour
+2008-01,US,U.S. Total,TRA,transportation,9.52,cents per kilowatthour
+2008-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-12,US,U.S. Total,ALL,all sectors,8.91,cents per kilowatthour
+2007-12,US,U.S. Total,TRA,transportation,9.19,cents per kilowatthour
+2007-12,US,U.S. Total,RES,residential,10.33,cents per kilowatthour
+2007-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-12,US,U.S. Total,IND,industrial,6.26,cents per kilowatthour
+2007-12,US,U.S. Total,COM,commercial,9.42,cents per kilowatthour
+2007-11,US,U.S. Total,ALL,all sectors,8.94,cents per kilowatthour
+2007-11,US,U.S. Total,TRA,transportation,8.76,cents per kilowatthour
+2007-11,US,U.S. Total,RES,residential,10.7,cents per kilowatthour
+2007-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-11,US,U.S. Total,IND,industrial,6.28,cents per kilowatthour
+2007-11,US,U.S. Total,COM,commercial,9.5,cents per kilowatthour
+2007-10,US,U.S. Total,ALL,all sectors,9.17,cents per kilowatthour
+2007-10,US,U.S. Total,TRA,transportation,9.61,cents per kilowatthour
+2007-10,US,U.S. Total,RES,residential,10.82,cents per kilowatthour
+2007-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-10,US,U.S. Total,IND,industrial,6.46,cents per kilowatthour
+2007-10,US,U.S. Total,COM,commercial,9.77,cents per kilowatthour
+2007-09,US,U.S. Total,ALL,all sectors,9.43,cents per kilowatthour
+2007-09,US,U.S. Total,TRA,transportation,9.76,cents per kilowatthour
+2007-09,US,U.S. Total,RES,residential,10.96,cents per kilowatthour
+2007-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-09,US,U.S. Total,IND,industrial,6.52,cents per kilowatthour
+2007-09,US,U.S. Total,COM,commercial,9.9,cents per kilowatthour
+2007-08,US,U.S. Total,ALL,all sectors,9.68,cents per kilowatthour
+2007-08,US,U.S. Total,TRA,transportation,9.98,cents per kilowatthour
+2007-08,US,U.S. Total,RES,residential,11.07,cents per kilowatthour
+2007-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-08,US,U.S. Total,IND,industrial,6.84,cents per kilowatthour
+2007-08,US,U.S. Total,COM,commercial,10.07,cents per kilowatthour
+2007-07,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatthour
+2007-07,US,U.S. Total,TRA,transportation,10.57,cents per kilowatthour
+2007-07,US,U.S. Total,RES,residential,11.07,cents per kilowatthour
+2007-07,US,U.S. Total,COM,commercial,10.14,cents per kilowatthour
+2007-07,US,U.S. Total,IND,industrial,6.71,cents per kilowatthour
+2007-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-06,US,U.S. Total,ALL,all sectors,9.45,cents per kilowatthour
+2007-06,US,U.S. Total,TRA,transportation,9.88,cents per kilowatthour
+2007-06,US,U.S. Total,RES,residential,11.09,cents per kilowatthour
+2007-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-06,US,U.S. Total,IND,industrial,6.59,cents per kilowatthour
+2007-06,US,U.S. Total,COM,commercial,9.95,cents per kilowatthour
+2007-05,US,U.S. Total,ALL,all sectors,8.96,cents per kilowatthour
+2007-05,US,U.S. Total,TRA,transportation,9.84,cents per kilowatthour
+2007-05,US,U.S. Total,RES,residential,10.77,cents per kilowatthour
+2007-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-05,US,U.S. Total,IND,industrial,6.27,cents per kilowatthour
+2007-05,US,U.S. Total,COM,commercial,9.51,cents per kilowatthour
+2007-04,US,U.S. Total,ALL,all sectors,8.82,cents per kilowatthour
+2007-04,US,U.S. Total,TRA,transportation,9.42,cents per kilowatthour
+2007-04,US,U.S. Total,RES,residential,10.63,cents per kilowatthour
+2007-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-04,US,U.S. Total,IND,industrial,6.19,cents per kilowatthour
+2007-04,US,U.S. Total,COM,commercial,9.38,cents per kilowatthour
+2007-03,US,U.S. Total,ALL,all sectors,8.8,cents per kilowatthour
+2007-03,US,U.S. Total,TRA,transportation,11.04,cents per kilowatthour
+2007-03,US,U.S. Total,RES,residential,10.27,cents per kilowatthour
+2007-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-03,US,U.S. Total,IND,industrial,6.22,cents per kilowatthour
+2007-03,US,U.S. Total,COM,commercial,9.35,cents per kilowatthour
+2007-02,US,U.S. Total,ALL,all sectors,8.74,cents per kilowatthour
+2007-02,US,U.S. Total,TRA,transportation,9.38,cents per kilowatthour
+2007-02,US,U.S. Total,RES,residential,9.89,cents per kilowatthour
+2007-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-02,US,U.S. Total,IND,industrial,6.16,cents per kilowatthour
+2007-02,US,U.S. Total,COM,commercial,9.34,cents per kilowatthour
+2007-01,US,U.S. Total,ALL,all sectors,8.71,cents per kilowatthour
+2007-01,US,U.S. Total,TRA,transportation,8.92,cents per kilowatthour
+2007-01,US,U.S. Total,RES,residential,10.06,cents per kilowatthour
+2007-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2007-01,US,U.S. Total,IND,industrial,6.13,cents per kilowatthour
+2007-01,US,U.S. Total,COM,commercial,9.12,cents per kilowatthour
+2006-12,US,U.S. Total,ALL,all sectors,8.55,cents per kilowatthour
+2006-12,US,U.S. Total,TRA,transportation,9.56,cents per kilowatthour
+2006-12,US,U.S. Total,RES,residential,9.84,cents per kilowatthour
+2006-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-12,US,U.S. Total,IND,industrial,6,cents per kilowatthour
+2006-12,US,U.S. Total,COM,commercial,9.08,cents per kilowatthour
+2006-11,US,U.S. Total,ALL,all sectors,8.63,cents per kilowatthour
+2006-11,US,U.S. Total,TRA,transportation,9.4,cents per kilowatthour
+2006-11,US,U.S. Total,RES,residential,10.18,cents per kilowatthour
+2006-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-11,US,U.S. Total,IND,industrial,6.04,cents per kilowatthour
+2006-11,US,U.S. Total,COM,commercial,9.24,cents per kilowatthour
+2006-10,US,U.S. Total,ALL,all sectors,8.89,cents per kilowatthour
+2006-10,US,U.S. Total,TRA,transportation,10.02,cents per kilowatthour
+2006-10,US,U.S. Total,RES,residential,10.58,cents per kilowatthour
+2006-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-10,US,U.S. Total,IND,industrial,6.16,cents per kilowatthour
+2006-10,US,U.S. Total,COM,commercial,9.51,cents per kilowatthour
+2006-09,US,U.S. Total,ALL,all sectors,9.32,cents per kilowatthour
+2006-09,US,U.S. Total,TRA,transportation,10.11,cents per kilowatthour
+2006-09,US,U.S. Total,RES,residential,10.94,cents per kilowatthour
+2006-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-09,US,U.S. Total,IND,industrial,6.37,cents per kilowatthour
+2006-09,US,U.S. Total,COM,commercial,9.89,cents per kilowatthour
+2006-08,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatthour
+2006-08,US,U.S. Total,TRA,transportation,10.2,cents per kilowatthour
+2006-08,US,U.S. Total,RES,residential,10.94,cents per kilowatthour
+2006-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-08,US,U.S. Total,IND,industrial,6.65,cents per kilowatthour
+2006-08,US,U.S. Total,COM,commercial,10.04,cents per kilowatthour
+2006-07,US,U.S. Total,IND,industrial,6.61,cents per kilowatthour
+2006-07,US,U.S. Total,COM,commercial,9.97,cents per kilowatthour
+2006-07,US,U.S. Total,ALL,all sectors,9.55,cents per kilowatthour
+2006-07,US,U.S. Total,TRA,transportation,10.3,cents per kilowatthour
+2006-07,US,U.S. Total,RES,residential,10.96,cents per kilowatthour
+2006-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-06,US,U.S. Total,ALL,all sectors,9.3,cents per kilowatthour
+2006-06,US,U.S. Total,TRA,transportation,9.82,cents per kilowatthour
+2006-06,US,U.S. Total,RES,residential,10.85,cents per kilowatthour
+2006-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-06,US,U.S. Total,IND,industrial,6.41,cents per kilowatthour
+2006-06,US,U.S. Total,COM,commercial,9.88,cents per kilowatthour
+2006-05,US,U.S. Total,ALL,all sectors,8.71,cents per kilowatthour
+2006-05,US,U.S. Total,TRA,transportation,9.12,cents per kilowatthour
+2006-05,US,U.S. Total,RES,residential,10.61,cents per kilowatthour
+2006-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-05,US,U.S. Total,IND,industrial,6,cents per kilowatthour
+2006-05,US,U.S. Total,COM,commercial,9.22,cents per kilowatthour
+2006-04,US,U.S. Total,ALL,all sectors,8.56,cents per kilowatthour
+2006-04,US,U.S. Total,TRA,transportation,8.97,cents per kilowatthour
+2006-04,US,U.S. Total,RES,residential,10.32,cents per kilowatthour
+2006-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-04,US,U.S. Total,IND,industrial,5.93,cents per kilowatthour
+2006-04,US,U.S. Total,COM,commercial,9.17,cents per kilowatthour
+2006-03,US,U.S. Total,ALL,all sectors,8.44,cents per kilowatthour
+2006-03,US,U.S. Total,TRA,transportation,9.06,cents per kilowatthour
+2006-03,US,U.S. Total,RES,residential,9.87,cents per kilowatthour
+2006-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-03,US,U.S. Total,IND,industrial,5.88,cents per kilowatthour
+2006-03,US,U.S. Total,COM,commercial,9.06,cents per kilowatthour
+2006-02,US,U.S. Total,ALL,all sectors,8.49,cents per kilowatthour
+2006-02,US,U.S. Total,TRA,transportation,9.18,cents per kilowatthour
+2006-02,US,U.S. Total,RES,residential,9.8,cents per kilowatthour
+2006-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-02,US,U.S. Total,IND,industrial,5.98,cents per kilowatthour
+2006-02,US,U.S. Total,COM,commercial,9.14,cents per kilowatthour
+2006-01,US,U.S. Total,ALL,all sectors,8.31,cents per kilowatthour
+2006-01,US,U.S. Total,TRA,transportation,8.75,cents per kilowatthour
+2006-01,US,U.S. Total,RES,residential,9.55,cents per kilowatthour
+2006-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2006-01,US,U.S. Total,IND,industrial,5.78,cents per kilowatthour
+2006-01,US,U.S. Total,COM,commercial,8.87,cents per kilowatthour
+2005-12,US,U.S. Total,ALL,all sectors,8.21,cents per kilowatthour
+2005-12,US,U.S. Total,TRA,transportation,8.23,cents per kilowatthour
+2005-12,US,U.S. Total,RES,residential,9.27,cents per kilowatthour
+2005-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-12,US,U.S. Total,IND,industrial,5.94,cents per kilowatthour
+2005-12,US,U.S. Total,COM,commercial,8.79,cents per kilowatthour
+2005-11,US,U.S. Total,ALL,all sectors,8.21,cents per kilowatthour
+2005-11,US,U.S. Total,TRA,transportation,8.14,cents per kilowatthour
+2005-11,US,U.S. Total,RES,residential,9.76,cents per kilowatthour
+2005-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-11,US,U.S. Total,IND,industrial,5.83,cents per kilowatthour
+2005-11,US,U.S. Total,COM,commercial,8.79,cents per kilowatthour
+2005-10,US,U.S. Total,ALL,all sectors,8.37,cents per kilowatthour
+2005-10,US,U.S. Total,TRA,transportation,9.57,cents per kilowatthour
+2005-10,US,U.S. Total,RES,residential,9.76,cents per kilowatthour
+2005-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-10,US,U.S. Total,IND,industrial,6.03,cents per kilowatthour
+2005-10,US,U.S. Total,COM,commercial,8.91,cents per kilowatthour
+2005-09,US,U.S. Total,ALL,all sectors,8.68,cents per kilowatthour
+2005-09,US,U.S. Total,TRA,transportation,9.25,cents per kilowatthour
+2005-09,US,U.S. Total,RES,residential,9.94,cents per kilowatthour
+2005-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-09,US,U.S. Total,IND,industrial,6.17,cents per kilowatthour
+2005-09,US,U.S. Total,COM,commercial,9.18,cents per kilowatthour
+2005-08,US,U.S. Total,ALL,all sectors,8.71,cents per kilowatthour
+2005-08,US,U.S. Total,TRA,transportation,9.11,cents per kilowatthour
+2005-08,US,U.S. Total,RES,residential,9.93,cents per kilowatthour
+2005-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-08,US,U.S. Total,IND,industrial,6.2,cents per kilowatthour
+2005-08,US,U.S. Total,COM,commercial,9.1,cents per kilowatthour
+2005-07,US,U.S. Total,ALL,all sectors,8.6,cents per kilowatthour
+2005-07,US,U.S. Total,TRA,transportation,9.44,cents per kilowatthour
+2005-07,US,U.S. Total,RES,residential,9.77,cents per kilowatthour
+2005-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-07,US,U.S. Total,IND,industrial,6.14,cents per kilowatthour
+2005-07,US,U.S. Total,COM,commercial,9,cents per kilowatthour
+2005-06,US,U.S. Total,ALL,all sectors,8.38,cents per kilowatthour
+2005-06,US,U.S. Total,TRA,transportation,8.5,cents per kilowatthour
+2005-06,US,U.S. Total,RES,residential,9.79,cents per kilowatthour
+2005-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-06,US,U.S. Total,IND,industrial,5.86,cents per kilowatthour
+2005-06,US,U.S. Total,COM,commercial,8.89,cents per kilowatthour
+2005-05,US,U.S. Total,ALL,all sectors,7.84,cents per kilowatthour
+2005-05,US,U.S. Total,TRA,transportation,8.23,cents per kilowatthour
+2005-05,US,U.S. Total,RES,residential,9.56,cents per kilowatthour
+2005-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-05,US,U.S. Total,IND,industrial,5.42,cents per kilowatthour
+2005-05,US,U.S. Total,COM,commercial,8.41,cents per kilowatthour
+2005-04,US,U.S. Total,ALL,all sectors,7.65,cents per kilowatthour
+2005-04,US,U.S. Total,TRA,transportation,8.3,cents per kilowatthour
+2005-04,US,U.S. Total,RES,residential,9.22,cents per kilowatthour
+2005-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-04,US,U.S. Total,IND,industrial,5.31,cents per kilowatthour
+2005-04,US,U.S. Total,COM,commercial,8.25,cents per kilowatthour
+2005-03,US,U.S. Total,ALL,all sectors,7.59,cents per kilowatthour
+2005-03,US,U.S. Total,TRA,transportation,8.01,cents per kilowatthour
+2005-03,US,U.S. Total,RES,residential,8.87,cents per kilowatthour
+2005-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-03,US,U.S. Total,IND,industrial,5.3,cents per kilowatthour
+2005-03,US,U.S. Total,COM,commercial,8.15,cents per kilowatthour
+2005-02,US,U.S. Total,ALL,all sectors,7.58,cents per kilowatthour
+2005-02,US,U.S. Total,TRA,transportation,8.14,cents per kilowatthour
+2005-02,US,U.S. Total,RES,residential,8.76,cents per kilowatthour
+2005-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-02,US,U.S. Total,IND,industrial,5.26,cents per kilowatthour
+2005-02,US,U.S. Total,COM,commercial,8.19,cents per kilowatthour
+2005-01,US,U.S. Total,ALL,all sectors,7.47,cents per kilowatthour
+2005-01,US,U.S. Total,TRA,transportation,7.91,cents per kilowatthour
+2005-01,US,U.S. Total,RES,residential,8.52,cents per kilowatthour
+2005-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2005-01,US,U.S. Total,IND,industrial,5.23,cents per kilowatthour
+2005-01,US,U.S. Total,COM,commercial,7.99,cents per kilowatthour
+2004-12,US,U.S. Total,ALL,all sectors,7.36,cents per kilowatthour
+2004-12,US,U.S. Total,TRA,transportation,7.12,cents per kilowatthour
+2004-12,US,U.S. Total,RES,residential,8.58,cents per kilowatthour
+2004-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-12,US,U.S. Total,IND,industrial,5.14,cents per kilowatthour
+2004-12,US,U.S. Total,COM,commercial,7.82,cents per kilowatthour
+2004-11,US,U.S. Total,ALL,all sectors,7.42,cents per kilowatthour
+2004-11,US,U.S. Total,TRA,transportation,7.15,cents per kilowatthour
+2004-11,US,U.S. Total,RES,residential,8.96,cents per kilowatthour
+2004-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-11,US,U.S. Total,IND,industrial,5.09,cents per kilowatthour
+2004-11,US,U.S. Total,COM,commercial,8.04,cents per kilowatthour
+2004-10,US,U.S. Total,ALL,all sectors,7.6,cents per kilowatthour
+2004-10,US,U.S. Total,TRA,transportation,7.32,cents per kilowatthour
+2004-10,US,U.S. Total,RES,residential,9.05,cents per kilowatthour
+2004-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-10,US,U.S. Total,IND,industrial,5.25,cents per kilowatthour
+2004-10,US,U.S. Total,COM,commercial,8.23,cents per kilowatthour
+2004-09,US,U.S. Total,ALL,all sectors,7.97,cents per kilowatthour
+2004-09,US,U.S. Total,TRA,transportation,7.42,cents per kilowatthour
+2004-09,US,U.S. Total,RES,residential,9.39,cents per kilowatthour
+2004-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-09,US,U.S. Total,IND,industrial,5.41,cents per kilowatthour
+2004-09,US,U.S. Total,COM,commercial,8.54,cents per kilowatthour
+2004-08,US,U.S. Total,ALL,all sectors,8.18,cents per kilowatthour
+2004-08,US,U.S. Total,TRA,transportation,7.76,cents per kilowatthour
+2004-08,US,U.S. Total,RES,residential,9.5,cents per kilowatthour
+2004-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-08,US,U.S. Total,IND,industrial,5.65,cents per kilowatthour
+2004-08,US,U.S. Total,COM,commercial,8.7,cents per kilowatthour
+2004-07,US,U.S. Total,ALL,all sectors,8.11,cents per kilowatthour
+2004-07,US,U.S. Total,TRA,transportation,7.84,cents per kilowatthour
+2004-07,US,U.S. Total,RES,residential,9.36,cents per kilowatthour
+2004-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-07,US,U.S. Total,IND,industrial,5.63,cents per kilowatthour
+2004-07,US,U.S. Total,COM,commercial,8.63,cents per kilowatthour
+2004-06,US,U.S. Total,ALL,all sectors,7.93,cents per kilowatthour
+2004-06,US,U.S. Total,TRA,transportation,7.28,cents per kilowatthour
+2004-06,US,U.S. Total,RES,residential,9.29,cents per kilowatthour
+2004-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-06,US,U.S. Total,IND,industrial,5.46,cents per kilowatthour
+2004-06,US,U.S. Total,COM,commercial,8.49,cents per kilowatthour
+2004-05,US,U.S. Total,ALL,all sectors,7.46,cents per kilowatthour
+2004-05,US,U.S. Total,TRA,transportation,6.66,cents per kilowatthour
+2004-05,US,U.S. Total,RES,residential,9.07,cents per kilowatthour
+2004-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-05,US,U.S. Total,IND,industrial,5.18,cents per kilowatthour
+2004-05,US,U.S. Total,COM,commercial,7.99,cents per kilowatthour
+2004-04,US,U.S. Total,ALL,all sectors,7.34,cents per kilowatthour
+2004-04,US,U.S. Total,TRA,transportation,7.16,cents per kilowatthour
+2004-04,US,U.S. Total,RES,residential,8.93,cents per kilowatthour
+2004-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-04,US,U.S. Total,IND,industrial,5.09,cents per kilowatthour
+2004-04,US,U.S. Total,COM,commercial,7.89,cents per kilowatthour
+2004-03,US,U.S. Total,ALL,all sectors,7.3,cents per kilowatthour
+2004-03,US,U.S. Total,TRA,transportation,6.7,cents per kilowatthour
+2004-03,US,U.S. Total,RES,residential,8.62,cents per kilowatthour
+2004-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-03,US,U.S. Total,IND,industrial,5.04,cents per kilowatthour
+2004-03,US,U.S. Total,COM,commercial,7.92,cents per kilowatthour
+2004-02,US,U.S. Total,ALL,all sectors,7.25,cents per kilowatthour
+2004-02,US,U.S. Total,TRA,transportation,7.13,cents per kilowatthour
+2004-02,US,U.S. Total,RES,residential,8.33,cents per kilowatthour
+2004-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-02,US,U.S. Total,IND,industrial,5.04,cents per kilowatthour
+2004-02,US,U.S. Total,COM,commercial,7.85,cents per kilowatthour
+2004-01,US,U.S. Total,ALL,all sectors,7.22,cents per kilowatthour
+2004-01,US,U.S. Total,TRA,transportation,6.62,cents per kilowatthour
+2004-01,US,U.S. Total,RES,residential,8.24,cents per kilowatthour
+2004-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2004-01,US,U.S. Total,IND,industrial,5.01,cents per kilowatthour
+2004-01,US,U.S. Total,COM,commercial,7.7,cents per kilowatthour
+2003-12,US,U.S. Total,ALL,all sectors,7.14,cents per kilowatthour
+2003-12,US,U.S. Total,TRA,transportation,7.26,cents per kilowatthour
+2003-12,US,U.S. Total,RES,residential,8.3,cents per kilowatthour
+2003-12,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-12,US,U.S. Total,IND,industrial,4.87,cents per kilowatthour
+2003-12,US,U.S. Total,COM,commercial,7.7,cents per kilowatthour
+2003-11,US,U.S. Total,ALL,all sectors,7.19,cents per kilowatthour
+2003-11,US,U.S. Total,TRA,transportation,7.24,cents per kilowatthour
+2003-11,US,U.S. Total,RES,residential,8.72,cents per kilowatthour
+2003-11,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-11,US,U.S. Total,IND,industrial,4.86,cents per kilowatthour
+2003-11,US,U.S. Total,COM,commercial,7.85,cents per kilowatthour
+2003-10,US,U.S. Total,ALL,all sectors,7.39,cents per kilowatthour
+2003-10,US,U.S. Total,TRA,transportation,7.63,cents per kilowatthour
+2003-10,US,U.S. Total,RES,residential,8.85,cents per kilowatthour
+2003-10,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-10,US,U.S. Total,IND,industrial,5.07,cents per kilowatthour
+2003-10,US,U.S. Total,COM,commercial,8.09,cents per kilowatthour
+2003-09,US,U.S. Total,COM,commercial,8.15,cents per kilowatthour
+2003-09,US,U.S. Total,ALL,all sectors,7.61,cents per kilowatthour
+2003-09,US,U.S. Total,IND,industrial,5.19,cents per kilowatthour
+2003-09,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-09,US,U.S. Total,RES,residential,8.92,cents per kilowatthour
+2003-09,US,U.S. Total,TRA,transportation,7.65,cents per kilowatthour
+2003-08,US,U.S. Total,ALL,all sectors,7.97,cents per kilowatthour
+2003-08,US,U.S. Total,TRA,transportation,7.84,cents per kilowatthour
+2003-08,US,U.S. Total,RES,residential,9.22,cents per kilowatthour
+2003-08,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-08,US,U.S. Total,IND,industrial,5.48,cents per kilowatthour
+2003-08,US,U.S. Total,COM,commercial,8.46,cents per kilowatthour
+2003-07,US,U.S. Total,ALL,all sectors,8.02,cents per kilowatthour
+2003-07,US,U.S. Total,TRA,transportation,8.01,cents per kilowatthour
+2003-07,US,U.S. Total,RES,residential,9.21,cents per kilowatthour
+2003-07,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-07,US,U.S. Total,IND,industrial,5.54,cents per kilowatthour
+2003-07,US,U.S. Total,COM,commercial,8.55,cents per kilowatthour
+2003-06,US,U.S. Total,ALL,all sectors,7.78,cents per kilowatthour
+2003-06,US,U.S. Total,COM,commercial,8.44,cents per kilowatthour
+2003-06,US,U.S. Total,IND,industrial,5.28,cents per kilowatthour
+2003-06,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-06,US,U.S. Total,RES,residential,9.25,cents per kilowatthour
+2003-06,US,U.S. Total,TRA,transportation,7.75,cents per kilowatthour
+2003-05,US,U.S. Total,TRA,transportation,7.57,cents per kilowatthour
+2003-05,US,U.S. Total,ALL,all sectors,7.42,cents per kilowatthour
+2003-05,US,U.S. Total,COM,commercial,8.06,cents per kilowatthour
+2003-05,US,U.S. Total,IND,industrial,5.06,cents per kilowatthour
+2003-05,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-05,US,U.S. Total,RES,residential,8.99,cents per kilowatthour
+2003-04,US,U.S. Total,ALL,all sectors,7.27,cents per kilowatthour
+2003-04,US,U.S. Total,TRA,transportation,7.61,cents per kilowatthour
+2003-04,US,U.S. Total,RES,residential,8.82,cents per kilowatthour
+2003-04,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-04,US,U.S. Total,IND,industrial,4.99,cents per kilowatthour
+2003-04,US,U.S. Total,COM,commercial,7.93,cents per kilowatthour
+2003-03,US,U.S. Total,ALL,all sectors,7.16,cents per kilowatthour
+2003-03,US,U.S. Total,TRA,transportation,7.32,cents per kilowatthour
+2003-03,US,U.S. Total,RES,residential,8.35,cents per kilowatthour
+2003-03,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-03,US,U.S. Total,IND,industrial,5.02,cents per kilowatthour
+2003-03,US,U.S. Total,COM,commercial,7.78,cents per kilowatthour
+2003-02,US,U.S. Total,ALL,all sectors,7.05,cents per kilowatthour
+2003-02,US,U.S. Total,TRA,transportation,7.42,cents per kilowatthour
+2003-02,US,U.S. Total,RES,residential,8.02,cents per kilowatthour
+2003-02,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-02,US,U.S. Total,IND,industrial,4.99,cents per kilowatthour
+2003-02,US,U.S. Total,COM,commercial,7.65,cents per kilowatthour
+2003-01,US,U.S. Total,ALL,all sectors,7,cents per kilowatthour
+2003-01,US,U.S. Total,TRA,transportation,7.23,cents per kilowatthour
+2003-01,US,U.S. Total,RES,residential,8,cents per kilowatthour
+2003-01,US,U.S. Total,OTH,other,,cents per kilowatthour
+2003-01,US,U.S. Total,IND,industrial,4.92,cents per kilowatthour
+2003-01,US,U.S. Total,COM,commercial,7.45,cents per kilowatthour
+2002-12,US,U.S. Total,ALL,all sectors,6.96,cents per kilowatthour
+2002-12,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-12,US,U.S. Total,RES,residential,8.08,cents per kilowatthour
+2002-12,US,U.S. Total,OTH,other,6.92,cents per kilowatthour
+2002-12,US,U.S. Total,IND,industrial,4.72,cents per kilowatthour
+2002-12,US,U.S. Total,COM,commercial,7.59,cents per kilowatthour
+2002-11,US,U.S. Total,ALL,all sectors,6.94,cents per kilowatthour
+2002-11,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-11,US,U.S. Total,RES,residential,8.31,cents per kilowatthour
+2002-11,US,U.S. Total,OTH,other,6.67,cents per kilowatthour
+2002-11,US,U.S. Total,IND,industrial,4.71,cents per kilowatthour
+2002-11,US,U.S. Total,COM,commercial,7.64,cents per kilowatthour
+2002-10,US,U.S. Total,ALL,all sectors,7.2,cents per kilowatthour
+2002-10,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-10,US,U.S. Total,RES,residential,8.47,cents per kilowatthour
+2002-10,US,U.S. Total,OTH,other,6.75,cents per kilowatthour
+2002-10,US,U.S. Total,IND,industrial,4.91,cents per kilowatthour
+2002-10,US,U.S. Total,COM,commercial,8,cents per kilowatthour
+2002-09,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-09,US,U.S. Total,RES,residential,8.59,cents per kilowatthour
+2002-09,US,U.S. Total,OTH,other,6.73,cents per kilowatthour
+2002-09,US,U.S. Total,IND,industrial,4.98,cents per kilowatthour
+2002-09,US,U.S. Total,COM,commercial,8,cents per kilowatthour
+2002-09,US,U.S. Total,ALL,all sectors,7.36,cents per kilowatthour
+2002-08,US,U.S. Total,ALL,all sectors,7.58,cents per kilowatthour
+2002-08,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-08,US,U.S. Total,RES,residential,8.72,cents per kilowatthour
+2002-08,US,U.S. Total,OTH,other,6.78,cents per kilowatthour
+2002-08,US,U.S. Total,IND,industrial,5.15,cents per kilowatthour
+2002-08,US,U.S. Total,COM,commercial,8.24,cents per kilowatthour
+2002-07,US,U.S. Total,ALL,all sectors,7.68,cents per kilowatthour
+2002-07,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-07,US,U.S. Total,RES,residential,8.82,cents per kilowatthour
+2002-07,US,U.S. Total,OTH,other,6.83,cents per kilowatthour
+2002-07,US,U.S. Total,IND,industrial,5.27,cents per kilowatthour
+2002-07,US,U.S. Total,COM,commercial,8.33,cents per kilowatthour
+2002-06,US,U.S. Total,ALL,all sectors,7.45,cents per kilowatthour
+2002-06,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-06,US,U.S. Total,RES,residential,8.73,cents per kilowatthour
+2002-06,US,U.S. Total,OTH,other,6.96,cents per kilowatthour
+2002-06,US,U.S. Total,IND,industrial,5.03,cents per kilowatthour
+2002-06,US,U.S. Total,COM,commercial,8.18,cents per kilowatthour
+2002-05,US,U.S. Total,IND,industrial,4.78,cents per kilowatthour
+2002-05,US,U.S. Total,COM,commercial,7.84,cents per kilowatthour
+2002-05,US,U.S. Total,ALL,all sectors,7.11,cents per kilowatthour
+2002-05,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-05,US,U.S. Total,RES,residential,8.64,cents per kilowatthour
+2002-05,US,U.S. Total,OTH,other,6.8,cents per kilowatthour
+2002-04,US,U.S. Total,ALL,all sectors,6.95,cents per kilowatthour
+2002-04,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-04,US,U.S. Total,RES,residential,8.37,cents per kilowatthour
+2002-04,US,U.S. Total,OTH,other,6.74,cents per kilowatthour
+2002-04,US,U.S. Total,IND,industrial,4.73,cents per kilowatthour
+2002-04,US,U.S. Total,COM,commercial,7.68,cents per kilowatthour
+2002-03,US,U.S. Total,ALL,all sectors,6.95,cents per kilowatthour
+2002-03,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-03,US,U.S. Total,RES,residential,8.17,cents per kilowatthour
+2002-03,US,U.S. Total,OTH,other,6.64,cents per kilowatthour
+2002-03,US,U.S. Total,IND,industrial,4.73,cents per kilowatthour
+2002-03,US,U.S. Total,COM,commercial,7.72,cents per kilowatthour
+2002-02,US,U.S. Total,ALL,all sectors,6.97,cents per kilowatthour
+2002-02,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-02,US,U.S. Total,RES,residential,8.19,cents per kilowatthour
+2002-02,US,U.S. Total,OTH,other,6.67,cents per kilowatthour
+2002-02,US,U.S. Total,IND,industrial,4.76,cents per kilowatthour
+2002-02,US,U.S. Total,COM,commercial,7.68,cents per kilowatthour
+2002-01,US,U.S. Total,ALL,all sectors,6.95,cents per kilowatthour
+2002-01,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2002-01,US,U.S. Total,RES,residential,8.07,cents per kilowatthour
+2002-01,US,U.S. Total,OTH,other,6.44,cents per kilowatthour
+2002-01,US,U.S. Total,IND,industrial,4.73,cents per kilowatthour
+2002-01,US,U.S. Total,COM,commercial,7.49,cents per kilowatthour
+2001-12,US,U.S. Total,ALL,all sectors,7.03,cents per kilowatthour
+2001-12,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-12,US,U.S. Total,RES,residential,8.29,cents per kilowatthour
+2001-12,US,U.S. Total,OTH,other,6.99,cents per kilowatthour
+2001-12,US,U.S. Total,IND,industrial,4.78,cents per kilowatthour
+2001-12,US,U.S. Total,COM,commercial,7.66,cents per kilowatthour
+2001-11,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-11,US,U.S. Total,RES,residential,8.47,cents per kilowatthour
+2001-11,US,U.S. Total,OTH,other,7.1,cents per kilowatthour
+2001-11,US,U.S. Total,IND,industrial,4.78,cents per kilowatthour
+2001-11,US,U.S. Total,COM,commercial,7.73,cents per kilowatthour
+2001-11,US,U.S. Total,ALL,all sectors,7.02,cents per kilowatthour
+2001-10,US,U.S. Total,ALL,all sectors,7.43,cents per kilowatthour
+2001-10,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-10,US,U.S. Total,RES,residential,8.84,cents per kilowatthour
+2001-10,US,U.S. Total,OTH,other,7.52,cents per kilowatthour
+2001-10,US,U.S. Total,IND,industrial,5.07,cents per kilowatthour
+2001-10,US,U.S. Total,COM,commercial,8.27,cents per kilowatthour
+2001-09,US,U.S. Total,ALL,all sectors,7.62,cents per kilowatthour
+2001-09,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-09,US,U.S. Total,RES,residential,8.92,cents per kilowatthour
+2001-09,US,U.S. Total,OTH,other,7.23,cents per kilowatthour
+2001-09,US,U.S. Total,IND,industrial,5.31,cents per kilowatthour
+2001-09,US,U.S. Total,COM,commercial,8.22,cents per kilowatthour
+2001-08,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-08,US,U.S. Total,RES,residential,9.01,cents per kilowatthour
+2001-08,US,U.S. Total,OTH,other,7.58,cents per kilowatthour
+2001-08,US,U.S. Total,IND,industrial,5.5,cents per kilowatthour
+2001-08,US,U.S. Total,COM,commercial,8.35,cents per kilowatthour
+2001-08,US,U.S. Total,ALL,all sectors,7.84,cents per kilowatthour
+2001-07,US,U.S. Total,ALL,all sectors,7.88,cents per kilowatthour
+2001-07,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-07,US,U.S. Total,RES,residential,9.03,cents per kilowatthour
+2001-07,US,U.S. Total,OTH,other,7.7,cents per kilowatthour
+2001-07,US,U.S. Total,IND,industrial,5.57,cents per kilowatthour
+2001-07,US,U.S. Total,COM,commercial,8.41,cents per kilowatthour
+2001-06,US,U.S. Total,ALL,all sectors,7.58,cents per kilowatthour
+2001-06,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-06,US,U.S. Total,RES,residential,9.07,cents per kilowatthour
+2001-06,US,U.S. Total,OTH,other,7.51,cents per kilowatthour
+2001-06,US,U.S. Total,IND,industrial,5.23,cents per kilowatthour
+2001-06,US,U.S. Total,COM,commercial,8.13,cents per kilowatthour
+2001-05,US,U.S. Total,ALL,all sectors,7.17,cents per kilowatthour
+2001-05,US,U.S. Total,COM,commercial,7.77,cents per kilowatthour
+2001-05,US,U.S. Total,IND,industrial,5,cents per kilowatthour
+2001-05,US,U.S. Total,OTH,other,7.14,cents per kilowatthour
+2001-05,US,U.S. Total,RES,residential,8.83,cents per kilowatthour
+2001-05,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-04,US,U.S. Total,ALL,all sectors,7.02,cents per kilowatthour
+2001-04,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-04,US,U.S. Total,RES,residential,8.46,cents per kilowatthour
+2001-04,US,U.S. Total,OTH,other,7.04,cents per kilowatthour
+2001-04,US,U.S. Total,IND,industrial,4.87,cents per kilowatthour
+2001-04,US,U.S. Total,COM,commercial,7.73,cents per kilowatthour
+2001-03,US,U.S. Total,ALL,all sectors,7.01,cents per kilowatthour
+2001-03,US,U.S. Total,COM,commercial,7.7,cents per kilowatthour
+2001-03,US,U.S. Total,IND,industrial,4.86,cents per kilowatthour
+2001-03,US,U.S. Total,OTH,other,7.05,cents per kilowatthour
+2001-03,US,U.S. Total,RES,residential,8.32,cents per kilowatthour
+2001-03,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-02,US,U.S. Total,ALL,all sectors,6.87,cents per kilowatthour
+2001-02,US,U.S. Total,TRA,transportation,,cents per kilowatthour
+2001-02,US,U.S. Total,RES,residential,8.04,cents per kilowatthour
+2001-02,US,U.S. Total,OTH,other,6.94,cents per kilowatthour
+2001-02,US,U.S. Total,IND,industrial,4.8,cents per kilowatthour
+2001-02,US,U.S. Total,COM,commercial,7.51,cents per kilowatthour
+2001-01,US,U.S. Total,ALL,all sectors,6.75,cents per kilowatthour
+2001-01,US,U.S. Total,COM,commercial,7.25,cents per kilowatthour
+2001-01,US,U.S. Total,IND,industrial,4.73,cents per kilowatthour
+2001-01,US,U.S. Total,OTH,other,6.48,cents per kilowatthour
+2001-01,US,U.S. Total,RES,residential,7.73,cents per kilowatthour
+2001-01,US,U.S. Total,TRA,transportation,,cents per kilowatthour
