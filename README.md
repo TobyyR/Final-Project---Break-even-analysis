@@ -71,6 +71,10 @@ The electricity price data is collected using the U.S. Energy Information Admini
 3. **Break-even Analysis**:
    - Calculate the break-even point when switching to an electric car using `calculate_break_even()`.
 
+
+### The project will be finished at a later date 
+
+
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
